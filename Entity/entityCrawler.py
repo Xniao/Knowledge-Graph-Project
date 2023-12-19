@@ -16,16 +16,19 @@ FILTER_WORDS = set(
      '意义', '证明', '总结', '求法', '推广1',
      '推广', '应用','例题', '牛刀小试']
 )
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:65.0) Gecko/20100101 Firefox/65.0'
+}
+
+def get_soup_object(target_url):
+    response = requests.get(target_url, headers=HEADERS)
+    assert response.status_code == 200
+    return Soup(response.text, "html.parser", from_encoding="utf-8")
+
 
 def get_topic_titles(topic_url):
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:65.0) Gecko/20100101 Firefox/65.0'
-    }
-    response = requests.get(topic_url, headers=headers)
-    assert response.status_code == 200
-    html_doc = response.text
-    soup = Soup(html_doc, "html.parser", from_encoding="utf-8")
-    # All title
+    soup = soup = get_soup_object(topic_url)
+    # Find title in markdown text
     markdown_text = soup.select_one("textarea")
     if markdown_text == None:
         return []
@@ -35,8 +38,8 @@ def get_topic_titles(topic_url):
     titles = [title for title in titles if title not in FILTER_WORDS]
     global COUNT
     COUNT += len(titles)
-    for title in titles:
-        print(title)
+    # for title in titles:
+    #     print(title)
     return titles
 
 
@@ -48,7 +51,7 @@ def dfs_topic(topic, level):
     subject_link = KB_URL + subject['href']
     global COUNT
     COUNT += 1
-    # print('\t' * level, subject.text, subject_link)
+    print('\t' * level, subject.text, subject_link)
     result = dict(
         subject=subject.text,
         link=subject_link,
@@ -65,36 +68,12 @@ def dfs_topic(topic, level):
     return result
 
 
-def main():
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:65.0) Gecko/20100101 Firefox/65.0'
-    }
-    response = requests.get(KB_URL, headers=headers)
-    assert response.status_code == 200
-    html_doc = response.text
-    soup = Soup(html_doc, "html.parser", from_encoding="utf-8")
+def crawl_topics():
+    soup = get_soup_object(KB_URL)
     # Search the high school math part
     topics = soup.select("#ctl00_body_lbl1 > .kb") + soup.select("#ctl00_body_lbl2 > .kb")
     result = []
-    for topic in topics:
-        subject = topic.find_next(class_="subject").find_next('a')
-        subject_link = KB_URL + subject['href']
-        global COUNT
-        COUNT += 1
-        # print(subject.text, KB_URL + subject['href'])
-        topic_result = dict(
-            subject=subject.text,
-            link=subject_link,
-        )
-        contents = get_topic_titles(subject_link)
-        if len(contents) > 0:
-            topic_result['contents'] = contents
-        items = topic.find_next(class_="items")
-        if items:
-            topic_result['items'] = []
-            for item in items:
-                topic_result['items'].append(dfs_topic(item, 1))
-        result.append(topic_result)
+    [result.append(dfs_topic(topic,0)) for topic in topics]
     print(COUNT)
     with open(TOPIC_RESULT_FILE_PATH, 'w', encoding='utf8') as file:
         json.dump(result, file, ensure_ascii=False, indent=2)
@@ -109,9 +88,9 @@ def dfs_entity(topic: dict):
         result.extend(topic['contents'])
     if topic.get('items'):
         items = topic['items']
-        for item in items:
-          result.extend(dfs_entity(item))  
+        [result.extend(dfs_entity(item)) for item in items]
     return result
+
 
 def get_entity():
     topics = []
@@ -127,4 +106,5 @@ def get_entity():
 
 if __name__ == "__main__":
     # get_topic_titles("https://kb.kmath.cn/kbase/detail.aspx?id=90")
+    crawl_topics()
     get_entity()
