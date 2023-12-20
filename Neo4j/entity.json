@@ -1,0 +1,1646 @@
+[
+  {
+    "name": "数与等式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=7",
+    "label": "专题"
+  },
+  {
+    "name": "有理数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=8",
+    "label": "专题"
+  },
+  {
+    "name": "整数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=24",
+    "label": "知识点"
+  },
+  {
+    "name": "分数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=25",
+    "label": "知识点"
+  },
+  {
+    "name": "无理数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=9",
+    "label": "知识点"
+  },
+  {
+    "name": "复数（高中）",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=816",
+    "label": "专题"
+  },
+  {
+    "name": "虚数（高中）",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=815",
+    "label": "专题"
+  },
+  {
+    "name": "虚数不能比较大小",
+    "label": "知识点"
+  },
+  {
+    "name": "i的周期",
+    "label": "知识点"
+  },
+  {
+    "name": "几何意义",
+    "label": "知识点"
+  },
+  {
+    "name": "实数（初中）",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=814",
+    "label": "知识点"
+  },
+  {
+    "name": "复数",
+    "label": "知识点"
+  },
+  {
+    "name": "常用数的集合表示方法",
+    "label": "知识点"
+  },
+  {
+    "name": "乘方",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=11",
+    "label": "知识点"
+  },
+  {
+    "name": "平方根",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=12",
+    "label": "专题"
+  },
+  {
+    "name": "算术平方根",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=679",
+    "label": "知识点"
+  },
+  {
+    "name": "二次根式的性质",
+    "label": "知识点"
+  },
+  {
+    "name": "立方根",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=13",
+    "label": "知识点"
+  },
+  {
+    "name": "科学记数法",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=14",
+    "label": "知识点"
+  },
+  {
+    "name": "分式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=16",
+    "label": "知识点"
+  },
+  {
+    "name": "乘法公式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=17",
+    "label": "知识点"
+  },
+  {
+    "name": "因式分解",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=18",
+    "label": "知识点"
+  },
+  {
+    "name": "等式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=19",
+    "label": "知识点"
+  },
+  {
+    "name": "不等式,不等式组",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=20",
+    "label": "知识点"
+  },
+  {
+    "name": "方程与函数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=28",
+    "label": "专题"
+  },
+  {
+    "name": "一元一次方程",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=29",
+    "label": "专题"
+  },
+  {
+    "name": "新Latex",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=939",
+    "label": "知识点"
+  },
+  {
+    "name": "新Doc",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=940",
+    "label": "知识点"
+  },
+  {
+    "name": "二元一次方程",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=30",
+    "label": "知识点"
+  },
+  {
+    "name": "一元二次方程",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=32",
+    "label": "知识点"
+  },
+  {
+    "name": "一次函数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=34",
+    "label": "知识点"
+  },
+  {
+    "name": "反比例函数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=35",
+    "label": "专题"
+  },
+  {
+    "name": "1. 反比例函数的概念",
+    "label": "知识点"
+  },
+  {
+    "name": "2. 反比例函数的图象和性质",
+    "label": "知识点"
+  },
+  {
+    "name": "二次例函数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=36",
+    "label": "知识点"
+  },
+  {
+    "name": "几何",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=37",
+    "label": "专题"
+  },
+  {
+    "name": "点线面体",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=38",
+    "label": "专题"
+  },
+  {
+    "name": "线段、直线与射线",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=40",
+    "label": "专题"
+  },
+  {
+    "name": "区别",
+    "label": "知识点"
+  },
+  {
+    "name": "相交、平行与垂直",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=39",
+    "label": "专题"
+  },
+  {
+    "name": "垂线最短定理",
+    "label": "知识点"
+  },
+  {
+    "name": "平行线的性质",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=705",
+    "label": "专题"
+  },
+  {
+    "name": "平行线的性质和判定",
+    "label": "知识点"
+  },
+  {
+    "name": "平行线的性质",
+    "label": "知识点"
+  },
+  {
+    "name": "平行线的判定",
+    "label": "知识点"
+  },
+  {
+    "name": "角",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=41",
+    "label": "专题"
+  },
+  {
+    "name": "补角与余角",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=704",
+    "label": "知识点"
+  },
+  {
+    "name": "邻补角与对顶角",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=703",
+    "label": "知识点"
+  },
+  {
+    "name": "角平分线定理",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=43",
+    "label": "专题"
+  },
+  {
+    "name": "外角平分线",
+    "label": "知识点"
+  },
+  {
+    "name": "内角平分线",
+    "label": "知识点"
+  },
+  {
+    "name": "外角平分线证明",
+    "label": "知识点"
+  },
+  {
+    "name": "三角形",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=692",
+    "label": "专题"
+  },
+  {
+    "name": "等腰与等边三角形",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=45",
+    "label": "知识点"
+  },
+  {
+    "name": "内心 重心 外心 垂心",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=44",
+    "label": "知识点"
+  },
+  {
+    "name": "勾股定理",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=48",
+    "label": "知识点"
+  },
+  {
+    "name": "全等与相似三角形",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=46",
+    "label": "专题"
+  },
+  {
+    "name": "全等三角形",
+    "label": "知识点"
+  },
+  {
+    "name": "判断条件",
+    "label": "知识点"
+  },
+  {
+    "name": "周长",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=693",
+    "label": "知识点"
+  },
+  {
+    "name": "面积",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=694",
+    "label": "专题"
+  },
+  {
+    "name": "三角形的面积",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=47",
+    "label": "知识点"
+  },
+  {
+    "name": "解三角形",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=49",
+    "label": "知识点"
+  },
+  {
+    "name": "四边形",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=695",
+    "label": "专题"
+  },
+  {
+    "name": "平行四边形",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=58",
+    "label": "知识点"
+  },
+  {
+    "name": "矩形（长方形）",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=57",
+    "label": "知识点"
+  },
+  {
+    "name": "棱形",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=59",
+    "label": "知识点"
+  },
+  {
+    "name": "圆",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=696",
+    "label": "专题"
+  },
+  {
+    "name": "圆、弧、弦、半径的定义",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=51",
+    "label": "知识点"
+  },
+  {
+    "name": "垂直于弦的直径",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=52",
+    "label": "知识点"
+  },
+  {
+    "name": "圆心角",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=53",
+    "label": "知识点"
+  },
+  {
+    "name": "圆周角",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=768",
+    "label": "专题"
+  },
+  {
+    "name": "圆周角定义",
+    "label": "知识点"
+  },
+  {
+    "name": "圆心角定义",
+    "label": "知识点"
+  },
+  {
+    "name": "定理",
+    "label": "知识点"
+  },
+  {
+    "name": "点与圆、直线与圆的关系",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=55",
+    "label": "知识点"
+  },
+  {
+    "name": "弧长与扇形的面积",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=769",
+    "label": "知识点"
+  },
+  {
+    "name": "正多边形",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=61",
+    "label": "知识点"
+  },
+  {
+    "name": "对称与旋转",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=64",
+    "label": "专题"
+  },
+  {
+    "name": "轴对称",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=63",
+    "label": "知识点"
+  },
+  {
+    "name": "中心对称",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=697",
+    "label": "知识点"
+  },
+  {
+    "name": "投影",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=66",
+    "label": "知识点"
+  },
+  {
+    "name": "三视图",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=67",
+    "label": "知识点"
+  },
+  {
+    "name": "旋转",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=65",
+    "label": "知识点"
+  },
+  {
+    "name": "概率与统计",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=72",
+    "label": "专题"
+  },
+  {
+    "name": "统计数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=698",
+    "label": "专题"
+  },
+  {
+    "name": "平均数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=79",
+    "label": "专题"
+  },
+  {
+    "name": "平均数不等式",
+    "label": "知识点"
+  },
+  {
+    "name": "中位数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=80",
+    "label": "知识点"
+  },
+  {
+    "name": "众数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=81",
+    "label": "知识点"
+  },
+  {
+    "name": "方差",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=83",
+    "label": "知识点"
+  },
+  {
+    "name": "标准差",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=84",
+    "label": "知识点"
+  },
+  {
+    "name": "极差",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=82",
+    "label": "知识点"
+  },
+  {
+    "name": "统计图",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=699",
+    "label": "专题"
+  },
+  {
+    "name": "直方图",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=73",
+    "label": "知识点"
+  },
+  {
+    "name": "条形图",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=74",
+    "label": "知识点"
+  },
+  {
+    "name": "扇形图",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=75",
+    "label": "知识点"
+  },
+  {
+    "name": "茎叶图",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=77",
+    "label": "知识点"
+  },
+  {
+    "name": "概率",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=87",
+    "label": "专题"
+  },
+  {
+    "name": "概率的定义",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=76",
+    "label": "知识点"
+  },
+  {
+    "name": "概率的求法",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=700",
+    "label": "知识点"
+  },
+  {
+    "name": "中考重难点专区",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=657",
+    "label": "专题"
+  },
+  {
+    "name": "将军饮马",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=658",
+    "label": "专题"
+  },
+  {
+    "name": "六大模型",
+    "label": "知识点"
+  },
+  {
+    "name": "试题挑战",
+    "label": "知识点"
+  },
+  {
+    "name": "海伦公式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=659",
+    "label": "专题"
+  },
+  {
+    "name": "推导",
+    "label": "知识点"
+  },
+  {
+    "name": "正弦定理",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=660",
+    "label": "知识点"
+  },
+  {
+    "name": "余弦定理",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=661",
+    "label": "知识点"
+  },
+  {
+    "name": "韦达定理",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=662",
+    "label": "专题"
+  },
+  {
+    "name": "韦达定理",
+    "label": "知识点"
+  },
+  {
+    "name": "几何含义",
+    "label": "知识点"
+  },
+  {
+    "name": "配方法",
+    "label": "知识点"
+  },
+  {
+    "name": "斐波那契数列",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=663",
+    "label": "专题"
+  },
+  {
+    "name": "和黄金分割的关系",
+    "label": "知识点"
+  },
+  {
+    "name": "斐波那契图像",
+    "label": "知识点"
+  },
+  {
+    "name": "连分数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=664",
+    "label": "专题"
+  },
+  {
+    "name": "连分数计算",
+    "label": "知识点"
+  },
+  {
+    "name": "集合与逻辑",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=89",
+    "label": "专题"
+  },
+  {
+    "name": "集合(高中)",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=90",
+    "label": "专题"
+  },
+  {
+    "name": "集合的定义",
+    "label": "知识点"
+  },
+  {
+    "name": "集合的特性",
+    "label": "知识点"
+  },
+  {
+    "name": "集合的表示",
+    "label": "知识点"
+  },
+  {
+    "name": "常用集合的记法",
+    "label": "知识点"
+  },
+  {
+    "name": "真子集",
+    "label": "知识点"
+  },
+  {
+    "name": "维恩图",
+    "label": "知识点"
+  },
+  {
+    "name": "开区间与闭区间",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=729",
+    "label": "知识点"
+  },
+  {
+    "name": "集合的关系",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=93",
+    "label": "专题"
+  },
+  {
+    "name": "属于关系",
+    "label": "知识点"
+  },
+  {
+    "name": "集合的运算",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=94",
+    "label": "专题"
+  },
+  {
+    "name": "交集",
+    "label": "知识点"
+  },
+  {
+    "name": "并集",
+    "label": "知识点"
+  },
+  {
+    "name": "补集",
+    "label": "知识点"
+  },
+  {
+    "name": "集合的逆",
+    "label": "知识点"
+  },
+  {
+    "name": "全称量词与存在量词",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=97",
+    "label": "专题"
+  },
+  {
+    "name": "逻辑联结词",
+    "label": "知识点"
+  },
+  {
+    "name": "充分条件与必要条件",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=95",
+    "label": "专题"
+  },
+  {
+    "name": "①充分条件",
+    "label": "知识点"
+  },
+  {
+    "name": "②必要条件",
+    "label": "知识点"
+  },
+  {
+    "name": "③充要条件",
+    "label": "知识点"
+  },
+  {
+    "name": "④既不充分又不必要条件",
+    "label": "知识点"
+  },
+  {
+    "name": "等式与不等式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=730",
+    "label": "专题"
+  },
+  {
+    "name": "一元二次方程",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=731",
+    "label": "知识点"
+  },
+  {
+    "name": "一元二次不等式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=732",
+    "label": "知识点"
+  },
+  {
+    "name": "均值不等式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=733",
+    "label": "专题"
+  },
+  {
+    "name": "均值不等式推广",
+    "label": "知识点"
+  },
+  {
+    "name": "函数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=109",
+    "label": "专题"
+  },
+  {
+    "name": "映射",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=111",
+    "label": "专题"
+  },
+  {
+    "name": "单射与 满射",
+    "label": "知识点"
+  },
+  {
+    "name": "映射的复合",
+    "label": "知识点"
+  },
+  {
+    "name": "变换",
+    "label": "知识点"
+  },
+  {
+    "name": "函数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=117",
+    "label": "专题"
+  },
+  {
+    "name": "定义域与值域",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=113",
+    "label": "知识点"
+  },
+  {
+    "name": "函数的单调性",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=114",
+    "label": "专题"
+  },
+  {
+    "name": "导数判断单调性",
+    "label": "知识点"
+  },
+  {
+    "name": "函数的奇偶性",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=649",
+    "label": "专题"
+  },
+  {
+    "name": "函数奇偶性的定义",
+    "label": "知识点"
+  },
+  {
+    "name": "初等函数的奇偶性",
+    "label": "知识点"
+  },
+  {
+    "name": "奇偶函数的一些性质",
+    "label": "知识点"
+  },
+  {
+    "name": "函数的周期性",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=650",
+    "label": "专题"
+  },
+  {
+    "name": "正弦函数与余弦函数的周期性",
+    "label": "知识点"
+  },
+  {
+    "name": "周期函数的性质：",
+    "label": "知识点"
+  },
+  {
+    "name": "函数的零点",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=734",
+    "label": "知识点"
+  },
+  {
+    "name": "函数的极值",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=115",
+    "label": "知识点"
+  },
+  {
+    "name": "函数的最值",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=116",
+    "label": "知识点"
+  },
+  {
+    "name": "函数的来源",
+    "label": "知识点"
+  },
+  {
+    "name": "指数函数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=119",
+    "label": "专题"
+  },
+  {
+    "name": "有理指数幂",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=735",
+    "label": "知识点"
+  },
+  {
+    "name": "指数函数的图像性质",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=736",
+    "label": "专题"
+  },
+  {
+    "name": "指数函数的图像",
+    "label": "知识点"
+  },
+  {
+    "name": "指数函数的大小",
+    "label": "知识点"
+  },
+  {
+    "name": "对数函数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=120",
+    "label": "专题"
+  },
+  {
+    "name": "对数函数的定义",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=737",
+    "label": "知识点"
+  },
+  {
+    "name": "对数的运算法则",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=738",
+    "label": "知识点"
+  },
+  {
+    "name": "换底公式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=739",
+    "label": "知识点"
+  },
+  {
+    "name": "对数函数的图像与性质",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=740",
+    "label": "专题"
+  },
+  {
+    "name": "对数函数的图像与性质",
+    "label": "知识点"
+  },
+  {
+    "name": "对数函数比较大小",
+    "label": "知识点"
+  },
+  {
+    "name": "幂函数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=118",
+    "label": "专题"
+  },
+  {
+    "name": "幂函数的定义",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=741",
+    "label": "专题"
+  },
+  {
+    "name": "幂函数的定义",
+    "label": "知识点"
+  },
+  {
+    "name": "幂函数的图像",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=742",
+    "label": "知识点"
+  },
+  {
+    "name": "幂函数的定义",
+    "label": "知识点"
+  },
+  {
+    "name": "导数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=760",
+    "label": "专题"
+  },
+  {
+    "name": "初等函数求导",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=146",
+    "label": "知识点"
+  },
+  {
+    "name": "求导法则",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=147",
+    "label": "知识点"
+  },
+  {
+    "name": "复合函数求导",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=767",
+    "label": "知识点"
+  },
+  {
+    "name": "利用导数求极值",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=148",
+    "label": "知识点"
+  },
+  {
+    "name": "利用导数判断函数凸凹性",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=149",
+    "label": "知识点"
+  },
+  {
+    "name": "三角函数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=125",
+    "label": "专题"
+  },
+  {
+    "name": "角度制，弧度制",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=126",
+    "label": "专题"
+  },
+  {
+    "name": "角度的定义",
+    "label": "知识点"
+  },
+  {
+    "name": "弧度",
+    "label": "知识点"
+  },
+  {
+    "name": "角度和弧度换算",
+    "label": "知识点"
+  },
+  {
+    "name": "角度的正负",
+    "label": "知识点"
+  },
+  {
+    "name": "倾斜角与斜率",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=761",
+    "label": "专题"
+  },
+  {
+    "name": "倾斜角的定义",
+    "label": "知识点"
+  },
+  {
+    "name": "斜率的定义",
+    "label": "知识点"
+  },
+  {
+    "name": "三角函数的定义",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=720",
+    "label": "专题"
+  },
+  {
+    "name": "正弦、余弦、正切",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=138",
+    "label": "知识点"
+  },
+  {
+    "name": "正弦、余弦与正切的符号",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=133",
+    "label": "知识点"
+  },
+  {
+    "name": "单位圆",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=128",
+    "label": "专题"
+  },
+  {
+    "name": "三角函数的扩展",
+    "label": "知识点"
+  },
+  {
+    "name": "余切、正割、余割",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=137",
+    "label": "知识点"
+  },
+  {
+    "name": "诱导公式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=129",
+    "label": "专题"
+  },
+  {
+    "name": "诱导公式",
+    "label": "知识点"
+  },
+  {
+    "name": "三角函数的图像与性质",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=134",
+    "label": "知识点"
+  },
+  {
+    "name": "三角恒等式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=130",
+    "label": "专题"
+  },
+  {
+    "name": "三角变换恒等式",
+    "label": "知识点"
+  },
+  {
+    "name": "基础定义",
+    "label": "知识点"
+  },
+  {
+    "name": "基本关系",
+    "label": "知识点"
+  },
+  {
+    "name": "角的和差等式",
+    "label": "知识点"
+  },
+  {
+    "name": "积化和差与和差化积",
+    "label": "知识点"
+  },
+  {
+    "name": "二倍角、三倍角和半角公式",
+    "label": "知识点"
+  },
+  {
+    "name": "降幂公式",
+    "label": "知识点"
+  },
+  {
+    "name": "辅助角公式",
+    "label": "知识点"
+  },
+  {
+    "name": "反三角函数（补充，高考不考）",
+    "label": "知识点"
+  },
+  {
+    "name": "万能公式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=131",
+    "label": "专题"
+  },
+  {
+    "name": "万能公式",
+    "label": "知识点"
+  },
+  {
+    "name": "正弦公式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=763",
+    "label": "知识点"
+  },
+  {
+    "name": "余弦定理",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=764",
+    "label": "知识点"
+  },
+  {
+    "name": "平面向量",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=754",
+    "label": "专题"
+  },
+  {
+    "name": "向量、模、单位向量",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=755",
+    "label": "知识点"
+  },
+  {
+    "name": "向量相等与平行",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=756",
+    "label": "知识点"
+  },
+  {
+    "name": "向量的加法、减法与数乘",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=165",
+    "label": "专题"
+  },
+  {
+    "name": "向量的加法",
+    "label": "知识点"
+  },
+  {
+    "name": "向量的线性运算",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=166",
+    "label": "知识点"
+  },
+  {
+    "name": "内积",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=167",
+    "label": "专题"
+  },
+  {
+    "name": "向量的数乘",
+    "label": "知识点"
+  },
+  {
+    "name": "向量乘除（内积与外积）",
+    "label": "知识点"
+  },
+  {
+    "name": "内积",
+    "label": "知识点"
+  },
+  {
+    "name": "内积运算有以下应用",
+    "label": "知识点"
+  },
+  {
+    "name": "向量的坐标运算",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=757",
+    "label": "知识点"
+  },
+  {
+    "name": "向量垂直、正交基底与正交分解",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=758",
+    "label": "知识点"
+  },
+  {
+    "name": "数列",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=719",
+    "label": "专题"
+  },
+  {
+    "name": "等差数列",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=143",
+    "label": "知识点"
+  },
+  {
+    "name": "等比数列",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=144",
+    "label": "知识点"
+  },
+  {
+    "name": "数学归纳法",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=100",
+    "label": "知识点"
+  },
+  {
+    "name": "反证法",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=99",
+    "label": "知识点"
+  },
+  {
+    "name": "复数与向量",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=101",
+    "label": "专题"
+  },
+  {
+    "name": "复数概念、几何意义与共轭复数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=102",
+    "label": "专题"
+  },
+  {
+    "name": "引入意义",
+    "label": "知识点"
+  },
+  {
+    "name": "复数的几何意义",
+    "label": "知识点"
+  },
+  {
+    "name": "共轭复数",
+    "label": "知识点"
+  },
+  {
+    "name": "复数的加、减、乘、除",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=103",
+    "label": "专题"
+  },
+  {
+    "name": "加法与减",
+    "label": "知识点"
+  },
+  {
+    "name": "乘法与除法",
+    "label": "知识点"
+  },
+  {
+    "name": "复数的三角形式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=104",
+    "label": "知识点"
+  },
+  {
+    "name": "复数的三角函数运算",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=765",
+    "label": "知识点"
+  },
+  {
+    "name": "解析几何",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=150",
+    "label": "专题"
+  },
+  {
+    "name": "坐标系",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=727",
+    "label": "专题"
+  },
+  {
+    "name": "极坐标",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=164",
+    "label": "专题"
+  },
+  {
+    "name": "极坐标",
+    "label": "知识点"
+  },
+  {
+    "name": "圆的极坐标表示",
+    "label": "知识点"
+  },
+  {
+    "name": "阿基米德螺旋线",
+    "label": "知识点"
+  },
+  {
+    "name": "球坐标",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=163",
+    "label": "专题"
+  },
+  {
+    "name": "球座标系",
+    "label": "知识点"
+  },
+  {
+    "name": "球坐标与直角坐标的转换。",
+    "label": "知识点"
+  },
+  {
+    "name": "球坐标系中矢量的两种表示方法",
+    "label": "知识点"
+  },
+  {
+    "name": "柱坐标",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=162",
+    "label": "专题"
+  },
+  {
+    "name": "圆柱坐标系",
+    "label": "知识点"
+  },
+  {
+    "name": "柱坐标与直角坐标系转换",
+    "label": "知识点"
+  },
+  {
+    "name": "两点之间的距离",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=159",
+    "label": "专题"
+  },
+  {
+    "name": "三维或更高维数",
+    "label": "知识点"
+  },
+  {
+    "name": "直线",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=690",
+    "label": "专题"
+  },
+  {
+    "name": "倾斜角与斜率",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=158",
+    "label": "专题"
+  },
+  {
+    "name": "倾斜角的定义",
+    "label": "知识点"
+  },
+  {
+    "name": "直线的斜率",
+    "label": "知识点"
+  },
+  {
+    "name": "斜率公式",
+    "label": "知识点"
+  },
+  {
+    "name": "方向向量与法向量",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=725",
+    "label": "知识点"
+  },
+  {
+    "name": "直线方程",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=688",
+    "label": "专题"
+  },
+  {
+    "name": "直线方程的求法",
+    "label": "知识点"
+  },
+  {
+    "name": "两直线平行与垂直",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=689",
+    "label": "专题"
+  },
+  {
+    "name": "两直线的平行",
+    "label": "知识点"
+  },
+  {
+    "name": "两直线的垂直",
+    "label": "知识点"
+  },
+  {
+    "name": "点到直接的距离公式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=686",
+    "label": "知识点"
+  },
+  {
+    "name": "两平行直线距离",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=726",
+    "label": "知识点"
+  },
+  {
+    "name": "圆",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=153",
+    "label": "专题"
+  },
+  {
+    "name": "圆的方程",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=160",
+    "label": "知识点"
+  },
+  {
+    "name": "直线与圆的弦长",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=685",
+    "label": "知识点"
+  },
+  {
+    "name": "直线与圆的切线",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=687",
+    "label": "知识点"
+  },
+  {
+    "name": "直线与圆的位置",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=161",
+    "label": "知识点"
+  },
+  {
+    "name": "圆与圆的关系",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=691",
+    "label": "知识点"
+  },
+  {
+    "name": "椭圆",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=706",
+    "label": "专题"
+  },
+  {
+    "name": "椭圆的定义与标准方程",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=155",
+    "label": "专题"
+  },
+  {
+    "name": "椭圆的定义",
+    "label": "知识点"
+  },
+  {
+    "name": "椭圆是圆锥曲线的一种",
+    "label": "知识点"
+  },
+  {
+    "name": "椭圆标准方程",
+    "label": "知识点"
+  },
+  {
+    "name": "焦点位置的判断",
+    "label": "知识点"
+  },
+  {
+    "name": "点与椭圆位置关系",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=707",
+    "label": "知识点"
+  },
+  {
+    "name": "离心率",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=708",
+    "label": "专题"
+  },
+  {
+    "name": "椭圆离心率的定义",
+    "label": "知识点"
+  },
+  {
+    "name": "如何理解椭圆离心率",
+    "label": "知识点"
+  },
+  {
+    "name": "缩放与平移不改变椭圆的离心率",
+    "label": "知识点"
+  },
+  {
+    "name": "椭圆离心率为什么用c/a 而不是 b/a",
+    "label": "知识点"
+  },
+  {
+    "name": "椭圆的第2种定义",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=709",
+    "label": "专题"
+  },
+  {
+    "name": "离心率的意义",
+    "label": "知识点"
+  },
+  {
+    "name": "直线与椭圆的位置关系",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=710",
+    "label": "知识点"
+  },
+  {
+    "name": "椭圆的切线方程",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=711",
+    "label": "知识点"
+  },
+  {
+    "name": "椭圆中点弦斜率与方程",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=712",
+    "label": "知识点"
+  },
+  {
+    "name": "椭圆焦点三角形面积",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=713",
+    "label": "知识点"
+  },
+  {
+    "name": "双曲线",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=156",
+    "label": "专题"
+  },
+  {
+    "name": "双曲线的定义",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=714",
+    "label": "专题"
+  },
+  {
+    "name": "双曲线的基本定义",
+    "label": "知识点"
+  },
+  {
+    "name": "双曲线 $a,b,c$ 的定义",
+    "label": "知识点"
+  },
+  {
+    "name": "离心率",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=715",
+    "label": "专题"
+  },
+  {
+    "name": "双曲线离心率的定义",
+    "label": "知识点"
+  },
+  {
+    "name": "渐近线与共轭双曲线",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=716",
+    "label": "专题"
+  },
+  {
+    "name": "渐近线",
+    "label": "知识点"
+  },
+  {
+    "name": "共轭双曲线",
+    "label": "知识点"
+  },
+  {
+    "name": "双曲线的第二定义",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=817",
+    "label": "知识点"
+  },
+  {
+    "name": "双曲线的准线",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=717",
+    "label": "专题"
+  },
+  {
+    "name": "双曲线的准线",
+    "label": "知识点"
+  },
+  {
+    "name": "抛物线",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=157",
+    "label": "专题"
+  },
+  {
+    "name": "抛物线的定义",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=722",
+    "label": "知识点"
+  },
+  {
+    "name": "离心率",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=723",
+    "label": "知识点"
+  },
+  {
+    "name": "统计与概率",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=186",
+    "label": "专题"
+  },
+  {
+    "name": "统计",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=743",
+    "label": "专题"
+  },
+  {
+    "name": "总体、个体与样本",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=744",
+    "label": "知识点"
+  },
+  {
+    "name": "最值、平均数、中位数与百分位数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=745",
+    "label": "知识点"
+  },
+  {
+    "name": "极差、方差与标准差",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=746",
+    "label": "知识点"
+  },
+  {
+    "name": "柱状图与折线图",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=747",
+    "label": "知识点"
+  },
+  {
+    "name": "扇形图与茎叶图",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=748",
+    "label": "知识点"
+  },
+  {
+    "name": "用样本估计总统",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=749",
+    "label": "知识点"
+  },
+  {
+    "name": "频率与频数",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=750",
+    "label": "知识点"
+  },
+  {
+    "name": "概率",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=187",
+    "label": "专题"
+  },
+  {
+    "name": "样本空间与随机事件",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=751",
+    "label": "知识点"
+  },
+  {
+    "name": "必然事件与互斥事件",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=752",
+    "label": "知识点"
+  },
+  {
+    "name": "古典概率",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=753",
+    "label": "知识点"
+  },
+  {
+    "name": "计数原理",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=200",
+    "label": "专题"
+  },
+  {
+    "name": "二项式定理",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=203",
+    "label": "知识点"
+  },
+  {
+    "name": "组合",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=202",
+    "label": "专题"
+  },
+  {
+    "name": "组合数",
+    "label": "知识点"
+  },
+  {
+    "name": "排列",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=201",
+    "label": "专题"
+  },
+  {
+    "name": "排列数",
+    "label": "知识点"
+  },
+  {
+    "name": "加法原理",
+    "label": "知识点"
+  },
+  {
+    "name": "乘法原理",
+    "label": "知识点"
+  },
+  {
+    "name": "乘法公式与全概率公式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=195",
+    "label": "知识点"
+  },
+  {
+    "name": "贝叶斯公式",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=196",
+    "label": "知识点"
+  },
+  {
+    "name": "独立性与条件概率",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=197",
+    "label": "知识点"
+  },
+  {
+    "name": "二项分布与超几何分布",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=198",
+    "label": "知识点"
+  },
+  {
+    "name": "回归分析的误差",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=199",
+    "label": "知识点"
+  },
+  {
+    "name": "立体几何",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=718",
+    "label": "专题"
+  },
+  {
+    "name": "空间向量",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=170",
+    "label": "知识点"
+  },
+  {
+    "name": "空间向量的加法",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=171",
+    "label": "知识点"
+  },
+  {
+    "name": "向量的内积",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=173",
+    "label": "知识点"
+  },
+  {
+    "name": "向量共面定理",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=728",
+    "label": "知识点"
+  },
+  {
+    "name": "圆柱体",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=182",
+    "label": "知识点"
+  },
+  {
+    "name": "圆锥体",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=183",
+    "label": "知识点"
+  },
+  {
+    "name": "台体",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=184",
+    "label": "知识点"
+  },
+  {
+    "name": "球体",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=185",
+    "label": "知识点"
+  },
+  {
+    "name": "二面角",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=766",
+    "label": "知识点"
+  },
+  {
+    "name": "函数图形汇总",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=665",
+    "label": "专题"
+  },
+  {
+    "name": "初等函数图像",
+    "link": "https://kb.kmath.cn/kbase/detail.aspx?id=666",
+    "label": "知识点"
+  }
+]

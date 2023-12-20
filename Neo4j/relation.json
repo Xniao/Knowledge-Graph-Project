@@ -1,0 +1,8066 @@
+[
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "有理数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "有理数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "整数",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "整数",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "分数",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "分数",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "无理数",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "无理数",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "复数（高中）",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "复数（高中）",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "虚数（高中）",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "虚数（高中）",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "虚数不能比较大小",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "虚数不能比较大小",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "i的周期",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "i的周期",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "几何意义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "几何意义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "实数（初中）",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "实数（初中）",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "复数",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "复数",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "常用数的集合表示方法",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "常用数的集合表示方法",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "乘方",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "乘方",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "平方根",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "平方根",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "算术平方根",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "算术平方根",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "二次根式的性质",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "二次根式的性质",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "立方根",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "立方根",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "科学记数法",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "科学记数法",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "分式",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "分式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "乘法公式",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "乘法公式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "因式分解",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "因式分解",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "等式",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "等式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "不等式,不等式组",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "不等式,不等式组",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数与等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "一元一次方程",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "一元一次方程",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "新Latex",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "新Latex",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "新Doc",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "新Doc",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "二元一次方程",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "二元一次方程",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "一元二次方程",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "一元二次方程",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "一次函数",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "一次函数",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "反比例函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "反比例函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "1. 反比例函数的概念",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "1. 反比例函数的概念",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "2. 反比例函数的图象和性质",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "2. 反比例函数的图象和性质",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "二次例函数",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "二次例函数",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "方程与函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "点线面体",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "点线面体",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "线段、直线与射线",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "线段、直线与射线",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "区别",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "区别",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "相交、平行与垂直",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "相交、平行与垂直",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "垂线最短定理",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "垂线最短定理",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "平行线的性质",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "平行线的性质",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "平行线的性质和判定",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "平行线的性质和判定",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "平行线的性质",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "平行线的性质",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "平行线的判定",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "平行线的判定",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "角",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "角",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "补角与余角",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "补角与余角",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "邻补角与对顶角",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "邻补角与对顶角",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "角平分线定理",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "角平分线定理",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "外角平分线",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "外角平分线",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "内角平分线",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "内角平分线",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "外角平分线证明",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "外角平分线证明",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三角形",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "三角形",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "等腰与等边三角形",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "等腰与等边三角形",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "内心 重心 外心 垂心",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "内心 重心 外心 垂心",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "勾股定理",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "勾股定理",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "全等与相似三角形",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "全等与相似三角形",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "全等三角形",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "全等三角形",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "判断条件",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "判断条件",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "周长",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "周长",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "面积",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "面积",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三角形的面积",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "三角形的面积",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解三角形",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "解三角形",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "四边形",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "四边形",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "平行四边形",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "平行四边形",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "矩形（长方形）",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "矩形（长方形）",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "棱形",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "棱形",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "圆",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "圆",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "圆、弧、弦、半径的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "圆、弧、弦、半径的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "垂直于弦的直径",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "垂直于弦的直径",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "圆心角",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "圆心角",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "圆周角",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "圆周角",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "圆周角定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "圆周角定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "圆心角定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "圆心角定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "定理",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "定理",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "点与圆、直线与圆的关系",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "点与圆、直线与圆的关系",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "弧长与扇形的面积",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "弧长与扇形的面积",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "正多边形",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "正多边形",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "对称与旋转",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "轴对称",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "轴对称",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "对称与旋转",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "对称与旋转",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "中心对称",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "中心对称",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "对称与旋转",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "对称与旋转",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "投影",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "投影",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "对称与旋转",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "对称与旋转",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三视图",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "三视图",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "对称与旋转",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "对称与旋转",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "旋转",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "旋转",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "对称与旋转",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "统计数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "统计数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "平均数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "平均数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "平均数不等式",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "平均数不等式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "中位数",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "中位数",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "众数",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "众数",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "方差",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "方差",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "标准差",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "标准差",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "极差",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "极差",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "统计图",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "统计图",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "直方图",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "直方图",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "条形图",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "条形图",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "扇形图",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "扇形图",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "茎叶图",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "茎叶图",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "概率",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "概率的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "概率的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "概率的求法",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "概率的求法",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "概率与统计",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "将军饮马",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "将军饮马",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "六大模型",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "六大模型",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "试题挑战",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "试题挑战",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "海伦公式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "海伦公式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "推导",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "推导",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "正弦定理",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "正弦定理",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "余弦定理",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "余弦定理",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "韦达定理",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "韦达定理",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "韦达定理",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "韦达定理",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "几何含义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "几何含义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "配方法",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "配方法",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "斐波那契数列",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "斐波那契数列",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "和黄金分割的关系",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "和黄金分割的关系",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "斐波那契图像",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "斐波那契图像",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "连分数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "连分数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "连分数计算",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "连分数计算",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "中考重难点专区",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "集合(高中)",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "集合(高中)",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "集合的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "集合的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "集合的特性",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "集合的特性",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "集合的表示",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "集合的表示",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "常用集合的记法",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "常用集合的记法",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "真子集",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "真子集",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "维恩图",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "维恩图",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "开区间与闭区间",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "开区间与闭区间",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "集合的关系",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "集合的关系",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "属于关系",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "属于关系",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "集合的运算",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "集合的运算",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "交集",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "交集",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "并集",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "并集",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "补集",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "补集",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "集合的逆",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "集合的逆",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "全称量词与存在量词",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "全称量词与存在量词",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "逻辑联结词",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "逻辑联结词",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "充分条件与必要条件",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "充分条件与必要条件",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "①充分条件",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "①充分条件",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "②必要条件",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "②必要条件",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "③充要条件",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "③充要条件",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "④既不充分又不必要条件",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "④既不充分又不必要条件",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "集合与逻辑",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "等式与不等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "一元二次方程",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "一元二次方程",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "等式与不等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "等式与不等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "一元二次不等式",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "一元二次不等式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "等式与不等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "等式与不等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "均值不等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "均值不等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "等式与不等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "等式与不等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "均值不等式推广",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "均值不等式推广",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "等式与不等式",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "映射",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "映射",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "单射与 满射",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "单射与 满射",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "映射的复合",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "映射的复合",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "变换",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "变换",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "定义域与值域",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "定义域与值域",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数的单调性",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "函数的单调性",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "导数判断单调性",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "导数判断单调性",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数的奇偶性",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "函数的奇偶性",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数奇偶性的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "函数奇偶性的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "初等函数的奇偶性",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "初等函数的奇偶性",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "奇偶函数的一些性质",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "奇偶函数的一些性质",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数的周期性",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "函数的周期性",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "正弦函数与余弦函数的周期性",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "正弦函数与余弦函数的周期性",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "周期函数的性质：",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "周期函数的性质：",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数的零点",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "函数的零点",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数的极值",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "函数的极值",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数的最值",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "函数的最值",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数的来源",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "函数的来源",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "指数函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "指数函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "有理指数幂",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "有理指数幂",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "指数函数的图像性质",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "指数函数的图像性质",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "指数函数的图像",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "指数函数的图像",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "指数函数的大小",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "指数函数的大小",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "对数函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "对数函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "对数函数的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "对数函数的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "对数的运算法则",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "对数的运算法则",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "换底公式",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "换底公式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "对数函数的图像与性质",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "对数函数的图像与性质",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "对数函数的图像与性质",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "对数函数的图像与性质",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "对数函数比较大小",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "对数函数比较大小",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "幂函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "幂函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "幂函数的定义",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "幂函数的定义",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "幂函数的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "幂函数的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "幂函数的图像",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "幂函数的图像",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "幂函数的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "幂函数的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "导数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "初等函数求导",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "初等函数求导",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "导数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "导数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "求导法则",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "求导法则",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "导数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "导数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "复合函数求导",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "复合函数求导",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "导数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "导数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "利用导数求极值",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "利用导数求极值",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "导数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "导数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "利用导数判断函数凸凹性",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "利用导数判断函数凸凹性",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "导数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "角度制，弧度制",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "角度制，弧度制",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "角度的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "角度的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "弧度",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "弧度",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "角度和弧度换算",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "角度和弧度换算",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "角度的正负",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "角度的正负",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "倾斜角与斜率",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "倾斜角与斜率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "倾斜角的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "倾斜角的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "斜率的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "斜率的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三角函数的定义",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "三角函数的定义",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "正弦、余弦、正切",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "正弦、余弦、正切",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "正弦、余弦与正切的符号",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "正弦、余弦与正切的符号",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "单位圆",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "单位圆",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三角函数的扩展",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "三角函数的扩展",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "余切、正割、余割",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "余切、正割、余割",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "诱导公式",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "诱导公式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "诱导公式",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "诱导公式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三角函数的图像与性质",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "三角函数的图像与性质",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三角恒等式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "三角恒等式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三角变换恒等式",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "三角变换恒等式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "基础定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "基础定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "基本关系",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "基本关系",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "角的和差等式",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "角的和差等式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "积化和差与和差化积",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "积化和差与和差化积",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "二倍角、三倍角和半角公式",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "二倍角、三倍角和半角公式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "降幂公式",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "降幂公式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "辅助角公式",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "辅助角公式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "反三角函数（补充，高考不考）",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "反三角函数（补充，高考不考）",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "万能公式",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "万能公式",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "万能公式",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "万能公式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "正弦公式",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "正弦公式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "余弦定理",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "余弦定理",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "三角函数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "向量、模、单位向量",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "向量、模、单位向量",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "向量相等与平行",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "向量相等与平行",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "向量的加法、减法与数乘",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "向量的加法、减法与数乘",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "向量的加法",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "向量的加法",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "向量的线性运算",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "向量的线性运算",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "内积",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "内积",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "向量的数乘",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "向量的数乘",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "向量乘除（内积与外积）",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "向量乘除（内积与外积）",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "内积",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "内积",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "内积运算有以下应用",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "内积运算有以下应用",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "向量的坐标运算",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "向量的坐标运算",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "向量垂直、正交基底与正交分解",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "向量垂直、正交基底与正交分解",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "平面向量",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数列",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "等差数列",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "等差数列",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数列",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数列",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "等比数列",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "等比数列",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数列",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数列",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "数学归纳法",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "数学归纳法",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数列",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "数列",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "反证法",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "反证法",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "数列",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "复数概念、几何意义与共轭复数",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "复数概念、几何意义与共轭复数",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "引入意义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "引入意义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "复数的几何意义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "复数的几何意义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "共轭复数",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "共轭复数",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "复数的加、减、乘、除",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "复数的加、减、乘、除",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "加法与减",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "加法与减",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "乘法与除法",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "乘法与除法",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "复数的三角形式",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "复数的三角形式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "复数的三角函数运算",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "复数的三角函数运算",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "复数与向量",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "坐标系",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "坐标系",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "极坐标",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "极坐标",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "极坐标",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "极坐标",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "圆的极坐标表示",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "圆的极坐标表示",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "阿基米德螺旋线",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "阿基米德螺旋线",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "球坐标",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "球坐标",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "球座标系",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "球座标系",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "球坐标与直角坐标的转换。",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "球坐标与直角坐标的转换。",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "球坐标系中矢量的两种表示方法",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "球坐标系中矢量的两种表示方法",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "柱坐标",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "柱坐标",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "圆柱坐标系",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "圆柱坐标系",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "柱坐标与直角坐标系转换",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "柱坐标与直角坐标系转换",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "两点之间的距离",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "两点之间的距离",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "三维或更高维数",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "三维或更高维数",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "直线",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "直线",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "倾斜角与斜率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "倾斜角与斜率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "倾斜角的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "倾斜角的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "直线的斜率",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "直线的斜率",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "斜率公式",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "斜率公式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "方向向量与法向量",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "方向向量与法向量",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "直线方程",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "直线方程",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "直线方程的求法",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "直线方程的求法",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "两直线平行与垂直",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "两直线平行与垂直",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "两直线的平行",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "两直线的平行",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "两直线的垂直",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "两直线的垂直",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "点到直接的距离公式",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "点到直接的距离公式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "两平行直线距离",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "两平行直线距离",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "圆",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "圆",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "圆的方程",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "圆的方程",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "直线与圆的弦长",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "直线与圆的弦长",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "直线与圆的切线",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "直线与圆的切线",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "直线与圆的位置",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "直线与圆的位置",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "圆与圆的关系",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "圆与圆的关系",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "椭圆",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "椭圆",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "椭圆的定义与标准方程",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "椭圆的定义与标准方程",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "椭圆的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "椭圆的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "椭圆是圆锥曲线的一种",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "椭圆是圆锥曲线的一种",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "椭圆标准方程",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "椭圆标准方程",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "焦点位置的判断",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "焦点位置的判断",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "点与椭圆位置关系",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "点与椭圆位置关系",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "离心率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "离心率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "椭圆离心率的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "椭圆离心率的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "如何理解椭圆离心率",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "如何理解椭圆离心率",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "缩放与平移不改变椭圆的离心率",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "缩放与平移不改变椭圆的离心率",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "椭圆离心率为什么用c/a 而不是 b/a",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "椭圆离心率为什么用c/a 而不是 b/a",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "椭圆的第2种定义",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "椭圆的第2种定义",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "离心率的意义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "离心率的意义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "直线与椭圆的位置关系",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "直线与椭圆的位置关系",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "椭圆的切线方程",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "椭圆的切线方程",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "椭圆中点弦斜率与方程",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "椭圆中点弦斜率与方程",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "椭圆焦点三角形面积",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "椭圆焦点三角形面积",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "双曲线",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "双曲线",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "双曲线的定义",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "双曲线的定义",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "双曲线的基本定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "双曲线的基本定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "双曲线 $a,b,c$ 的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "双曲线 $a,b,c$ 的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "离心率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "离心率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "双曲线离心率的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "双曲线离心率的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "渐近线与共轭双曲线",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "渐近线与共轭双曲线",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "渐近线",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "渐近线",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "共轭双曲线",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "共轭双曲线",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "双曲线的第二定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "双曲线的第二定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "双曲线的准线",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "双曲线的准线",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "双曲线的准线",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "双曲线的准线",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "抛物线",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "抛物线",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "抛物线的定义",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "抛物线的定义",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "离心率",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "离心率",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "解析几何",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "统计",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "统计",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "总体、个体与样本",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "总体、个体与样本",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "最值、平均数、中位数与百分位数",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "最值、平均数、中位数与百分位数",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "极差、方差与标准差",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "极差、方差与标准差",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "柱状图与折线图",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "柱状图与折线图",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "扇形图与茎叶图",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "扇形图与茎叶图",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "用样本估计总统",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "用样本估计总统",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "频率与频数",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "频率与频数",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "概率",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "样本空间与随机事件",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "样本空间与随机事件",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "必然事件与互斥事件",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "必然事件与互斥事件",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "古典概率",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "古典概率",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "计数原理",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "计数原理",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "二项式定理",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "二项式定理",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "组合",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "组合",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "组合数",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "组合数",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "排列",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "排列",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "排列数",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "排列数",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "加法原理",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "加法原理",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "乘法原理",
+      "label": "知识点"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "乘法原理",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": false
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "乘法公式与全概率公式",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "乘法公式与全概率公式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "贝叶斯公式",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "贝叶斯公式",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "独立性与条件概率",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "独立性与条件概率",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "二项分布与超几何分布",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "二项分布与超几何分布",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "回归分析的误差",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "回归分析的误差",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "统计与概率",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "空间向量",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "空间向量",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "空间向量的加法",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "空间向量的加法",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "向量的内积",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "向量的内积",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "向量共面定理",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "向量共面定理",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "圆柱体",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "圆柱体",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "圆锥体",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "圆锥体",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "台体",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "台体",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "球体",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "球体",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "二面角",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "二面角",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "立体几何",
+      "label": "专题"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "包含",
+    "entity1": {
+      "name": "函数图形汇总",
+      "label": "专题"
+    },
+    "entity2": {
+      "name": "初等函数图像",
+      "label": "知识点"
+    },
+    "isDirect": true
+  },
+  {
+    "label": "属于",
+    "entity1": {
+      "name": "初等函数图像",
+      "label": "知识点"
+    },
+    "entity2": {
+      "name": "函数图形汇总",
+      "label": "专题"
+    },
+    "isDirect": true
+  }
+]

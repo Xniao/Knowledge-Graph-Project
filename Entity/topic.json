@@ -2,28 +2,34 @@
   {
     "subject": "数与等式",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=7",
+    "label": "专题",
     "items": [
       {
         "subject": "有理数",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=8",
+        "label": "专题",
         "items": [
           {
             "subject": "整数",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=24"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=24",
+            "label": "知识点"
           },
           {
             "subject": "分数",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=25"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=25",
+            "label": "知识点"
           }
         ]
       },
       {
         "subject": "无理数",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=9"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=9",
+        "label": "知识点"
       },
       {
         "subject": "复数（高中）",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=816",
+        "label": "专题",
         "contents": [
           "复数",
           "常用数的集合表示方法"
@@ -32,6 +38,7 @@
           {
             "subject": "虚数（高中）",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=815",
+            "label": "专题",
             "contents": [
               "虚数不能比较大小",
               "i的周期",
@@ -40,90 +47,109 @@
           },
           {
             "subject": "实数（初中）",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=814"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=814",
+            "label": "知识点"
           }
         ]
       },
       {
         "subject": "乘方",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=11"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=11",
+        "label": "知识点"
       },
       {
         "subject": "平方根",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=12",
+        "label": "专题",
         "contents": [
           "二次根式的性质"
         ],
         "items": [
           {
             "subject": "算术平方根",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=679"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=679",
+            "label": "知识点"
           }
         ]
       },
       {
         "subject": "立方根",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=13"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=13",
+        "label": "知识点"
       },
       {
         "subject": "科学记数法",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=14"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=14",
+        "label": "知识点"
       },
       {
         "subject": "分式",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=16"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=16",
+        "label": "知识点"
       },
       {
         "subject": "乘法公式",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=17"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=17",
+        "label": "知识点"
       },
       {
         "subject": "因式分解",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=18"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=18",
+        "label": "知识点"
       },
       {
         "subject": "等式",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=19"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=19",
+        "label": "知识点"
       },
       {
         "subject": "不等式,不等式组",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=20"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=20",
+        "label": "知识点"
       }
     ]
   },
   {
     "subject": "方程与函数",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=28",
+    "label": "专题",
     "items": [
       {
         "subject": "一元一次方程",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=29",
+        "label": "专题",
         "items": [
           {
             "subject": "新Latex",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=939"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=939",
+            "label": "知识点"
           },
           {
             "subject": "新Doc",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=940"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=940",
+            "label": "知识点"
           }
         ]
       },
       {
         "subject": "二元一次方程",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=30"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=30",
+        "label": "知识点"
       },
       {
         "subject": "一元二次方程",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=32"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=32",
+        "label": "知识点"
       },
       {
         "subject": "一次函数",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=34"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=34",
+        "label": "知识点"
       },
       {
         "subject": "反比例函数",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=35",
+        "label": "专题",
         "contents": [
           "1. 反比例函数的概念",
           "2. 反比例函数的图象和性质"
@@ -131,21 +157,25 @@
       },
       {
         "subject": "二次例函数",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=36"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=36",
+        "label": "知识点"
       }
     ]
   },
   {
     "subject": "几何",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=37",
+    "label": "专题",
     "items": [
       {
         "subject": "点线面体",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=38",
+        "label": "专题",
         "items": [
           {
             "subject": "线段、直线与射线",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=40",
+            "label": "专题",
             "contents": [
               "区别"
             ]
@@ -153,6 +183,7 @@
           {
             "subject": "相交、平行与垂直",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=39",
+            "label": "专题",
             "contents": [
               "垂线最短定理"
             ]
@@ -160,6 +191,7 @@
           {
             "subject": "平行线的性质",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=705",
+            "label": "专题",
             "contents": [
               "平行线的性质和判定",
               "平行线的性质",
@@ -171,18 +203,22 @@
       {
         "subject": "角",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=41",
+        "label": "专题",
         "items": [
           {
             "subject": "补角与余角",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=704"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=704",
+            "label": "知识点"
           },
           {
             "subject": "邻补角与对顶角",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=703"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=703",
+            "label": "知识点"
           },
           {
             "subject": "角平分线定理",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=43",
+            "label": "专题",
             "contents": [
               "外角平分线",
               "内角平分线",
@@ -194,22 +230,27 @@
       {
         "subject": "三角形",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=692",
+        "label": "专题",
         "items": [
           {
             "subject": "等腰与等边三角形",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=45"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=45",
+            "label": "知识点"
           },
           {
             "subject": "内心 重心 外心 垂心",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=44"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=44",
+            "label": "知识点"
           },
           {
             "subject": "勾股定理",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=48"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=48",
+            "label": "知识点"
           },
           {
             "subject": "全等与相似三角形",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=46",
+            "label": "专题",
             "contents": [
               "全等三角形",
               "判断条件"
@@ -217,61 +258,74 @@
           },
           {
             "subject": "周长",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=693"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=693",
+            "label": "知识点"
           },
           {
             "subject": "面积",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=694",
+            "label": "专题",
             "items": [
               {
                 "subject": "三角形的面积",
-                "link": "https://kb.kmath.cn/kbase/detail.aspx?id=47"
+                "link": "https://kb.kmath.cn/kbase/detail.aspx?id=47",
+                "label": "知识点"
               }
             ]
           },
           {
             "subject": "解三角形",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=49"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=49",
+            "label": "知识点"
           }
         ]
       },
       {
         "subject": "四边形",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=695",
+        "label": "专题",
         "items": [
           {
             "subject": "平行四边形",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=58"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=58",
+            "label": "知识点"
           },
           {
             "subject": "矩形（长方形）",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=57"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=57",
+            "label": "知识点"
           },
           {
             "subject": "棱形",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=59"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=59",
+            "label": "知识点"
           }
         ]
       },
       {
         "subject": "圆",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=696",
+        "label": "专题",
         "items": [
           {
             "subject": "圆、弧、弦、半径的定义",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=51"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=51",
+            "label": "知识点"
           },
           {
             "subject": "垂直于弦的直径",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=52"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=52",
+            "label": "知识点"
           },
           {
             "subject": "圆心角",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=53"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=53",
+            "label": "知识点"
           },
           {
             "subject": "圆周角",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=768",
+            "label": "专题",
             "contents": [
               "圆周角定义",
               "圆心角定义",
@@ -280,116 +334,141 @@
           },
           {
             "subject": "点与圆、直线与圆的关系",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=55"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=55",
+            "label": "知识点"
           },
           {
             "subject": "弧长与扇形的面积",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=769"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=769",
+            "label": "知识点"
           }
         ]
       },
       {
         "subject": "正多边形",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=61"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=61",
+        "label": "知识点"
       }
     ]
   },
   {
     "subject": "对称与旋转",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=64",
+    "label": "专题",
     "items": [
       {
         "subject": "轴对称",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=63"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=63",
+        "label": "知识点"
       },
       {
         "subject": "中心对称",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=697"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=697",
+        "label": "知识点"
       },
       {
         "subject": "投影",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=66"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=66",
+        "label": "知识点"
       },
       {
         "subject": "三视图",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=67"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=67",
+        "label": "知识点"
       },
       {
         "subject": "旋转",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=65"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=65",
+        "label": "知识点"
       }
     ]
   },
   {
     "subject": "概率与统计",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=72",
+    "label": "专题",
     "items": [
       {
         "subject": "统计数",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=698",
+        "label": "专题",
         "items": [
           {
             "subject": "平均数",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=79",
+            "label": "专题",
             "contents": [
               "平均数不等式"
             ]
           },
           {
             "subject": "中位数",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=80"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=80",
+            "label": "知识点"
           },
           {
             "subject": "众数",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=81"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=81",
+            "label": "知识点"
           },
           {
             "subject": "方差",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=83"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=83",
+            "label": "知识点"
           },
           {
             "subject": "标准差",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=84"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=84",
+            "label": "知识点"
           },
           {
             "subject": "极差",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=82"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=82",
+            "label": "知识点"
           }
         ]
       },
       {
         "subject": "统计图",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=699",
+        "label": "专题",
         "items": [
           {
             "subject": "直方图",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=73"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=73",
+            "label": "知识点"
           },
           {
             "subject": "条形图",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=74"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=74",
+            "label": "知识点"
           },
           {
             "subject": "扇形图",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=75"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=75",
+            "label": "知识点"
           },
           {
             "subject": "茎叶图",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=77"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=77",
+            "label": "知识点"
           }
         ]
       },
       {
         "subject": "概率",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=87",
+        "label": "专题",
         "items": [
           {
             "subject": "概率的定义",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=76"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=76",
+            "label": "知识点"
           },
           {
             "subject": "概率的求法",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=700"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=700",
+            "label": "知识点"
           }
         ]
       }
@@ -398,10 +477,12 @@
   {
     "subject": "中考重难点专区",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=657",
+    "label": "专题",
     "items": [
       {
         "subject": "将军饮马",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=658",
+        "label": "专题",
         "contents": [
           "六大模型",
           "试题挑战"
@@ -410,21 +491,25 @@
       {
         "subject": "海伦公式",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=659",
+        "label": "专题",
         "contents": [
           "推导"
         ]
       },
       {
         "subject": "正弦定理",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=660"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=660",
+        "label": "知识点"
       },
       {
         "subject": "余弦定理",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=661"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=661",
+        "label": "知识点"
       },
       {
         "subject": "韦达定理",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=662",
+        "label": "专题",
         "contents": [
           "韦达定理",
           "几何含义",
@@ -434,6 +519,7 @@
       {
         "subject": "斐波那契数列",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=663",
+        "label": "专题",
         "contents": [
           "和黄金分割的关系",
           "斐波那契图像"
@@ -442,6 +528,7 @@
       {
         "subject": "连分数",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=664",
+        "label": "专题",
         "contents": [
           "连分数计算"
         ]
@@ -451,10 +538,12 @@
   {
     "subject": "集合与逻辑",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=89",
+    "label": "专题",
     "items": [
       {
         "subject": "集合(高中)",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=90",
+        "label": "专题",
         "contents": [
           "集合的定义",
           "集合的特性",
@@ -466,11 +555,13 @@
       },
       {
         "subject": "开区间与闭区间",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=729"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=729",
+        "label": "知识点"
       },
       {
         "subject": "集合的关系",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=93",
+        "label": "专题",
         "contents": [
           "属于关系"
         ]
@@ -478,6 +569,7 @@
       {
         "subject": "集合的运算",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=94",
+        "label": "专题",
         "contents": [
           "交集",
           "并集",
@@ -488,6 +580,7 @@
       {
         "subject": "全称量词与存在量词",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=97",
+        "label": "专题",
         "contents": [
           "逻辑联结词"
         ]
@@ -495,6 +588,7 @@
       {
         "subject": "充分条件与必要条件",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=95",
+        "label": "专题",
         "contents": [
           "①充分条件",
           "②必要条件",
@@ -507,18 +601,22 @@
   {
     "subject": "等式与不等式",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=730",
+    "label": "专题",
     "items": [
       {
         "subject": "一元二次方程",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=731"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=731",
+        "label": "知识点"
       },
       {
         "subject": "一元二次不等式",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=732"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=732",
+        "label": "知识点"
       },
       {
         "subject": "均值不等式",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=733",
+        "label": "专题",
         "contents": [
           "均值不等式推广"
         ]
@@ -528,10 +626,12 @@
   {
     "subject": "函数",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=109",
+    "label": "专题",
     "items": [
       {
         "subject": "映射",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=111",
+        "label": "专题",
         "contents": [
           "单射与 满射",
           "映射的复合",
@@ -541,17 +641,20 @@
       {
         "subject": "函数",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=117",
+        "label": "专题",
         "contents": [
           "函数的来源"
         ],
         "items": [
           {
             "subject": "定义域与值域",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=113"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=113",
+            "label": "知识点"
           },
           {
             "subject": "函数的单调性",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=114",
+            "label": "专题",
             "contents": [
               "导数判断单调性"
             ]
@@ -559,6 +662,7 @@
           {
             "subject": "函数的奇偶性",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=649",
+            "label": "专题",
             "contents": [
               "函数奇偶性的定义",
               "初等函数的奇偶性",
@@ -568,6 +672,7 @@
           {
             "subject": "函数的周期性",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=650",
+            "label": "专题",
             "contents": [
               "正弦函数与余弦函数的周期性",
               "周期函数的性质："
@@ -575,29 +680,35 @@
           },
           {
             "subject": "函数的零点",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=734"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=734",
+            "label": "知识点"
           },
           {
             "subject": "函数的极值",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=115"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=115",
+            "label": "知识点"
           },
           {
             "subject": "函数的最值",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=116"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=116",
+            "label": "知识点"
           }
         ]
       },
       {
         "subject": "指数函数",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=119",
+        "label": "专题",
         "items": [
           {
             "subject": "有理指数幂",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=735"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=735",
+            "label": "知识点"
           },
           {
             "subject": "指数函数的图像性质",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=736",
+            "label": "专题",
             "contents": [
               "指数函数的图像",
               "指数函数的大小"
@@ -608,22 +719,27 @@
       {
         "subject": "对数函数",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=120",
+        "label": "专题",
         "items": [
           {
             "subject": "对数函数的定义",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=737"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=737",
+            "label": "知识点"
           },
           {
             "subject": "对数的运算法则",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=738"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=738",
+            "label": "知识点"
           },
           {
             "subject": "换底公式",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=739"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=739",
+            "label": "知识点"
           },
           {
             "subject": "对数函数的图像与性质",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=740",
+            "label": "专题",
             "contents": [
               "对数函数的图像与性质",
               "对数函数比较大小"
@@ -634,6 +750,7 @@
       {
         "subject": "幂函数",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=118",
+        "label": "专题",
         "contents": [
           "幂函数的定义"
         ],
@@ -641,13 +758,15 @@
           {
             "subject": "幂函数的定义",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=741",
+            "label": "专题",
             "contents": [
               "幂函数的定义"
             ]
           },
           {
             "subject": "幂函数的图像",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=742"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=742",
+            "label": "知识点"
           }
         ]
       }
@@ -656,36 +775,44 @@
   {
     "subject": "导数",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=760",
+    "label": "专题",
     "items": [
       {
         "subject": "初等函数求导",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=146"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=146",
+        "label": "知识点"
       },
       {
         "subject": "求导法则",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=147"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=147",
+        "label": "知识点"
       },
       {
         "subject": "复合函数求导",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=767"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=767",
+        "label": "知识点"
       },
       {
         "subject": "利用导数求极值",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=148"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=148",
+        "label": "知识点"
       },
       {
         "subject": "利用导数判断函数凸凹性",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=149"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=149",
+        "label": "知识点"
       }
     ]
   },
   {
     "subject": "三角函数",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=125",
+    "label": "专题",
     "items": [
       {
         "subject": "角度制，弧度制",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=126",
+        "label": "专题",
         "contents": [
           "角度的定义",
           "弧度",
@@ -696,6 +823,7 @@
       {
         "subject": "倾斜角与斜率",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=761",
+        "label": "专题",
         "contents": [
           "倾斜角的定义",
           "斜率的定义"
@@ -704,29 +832,35 @@
       {
         "subject": "三角函数的定义",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=720",
+        "label": "专题",
         "items": [
           {
             "subject": "正弦、余弦、正切",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=138"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=138",
+            "label": "知识点"
           },
           {
             "subject": "正弦、余弦与正切的符号",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=133"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=133",
+            "label": "知识点"
           },
           {
             "subject": "单位圆",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=128",
+            "label": "专题",
             "contents": [
               "三角函数的扩展"
             ]
           },
           {
             "subject": "余切、正割、余割",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=137"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=137",
+            "label": "知识点"
           },
           {
             "subject": "诱导公式",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=129",
+            "label": "专题",
             "contents": [
               "诱导公式"
             ]
@@ -735,11 +869,13 @@
       },
       {
         "subject": "三角函数的图像与性质",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=134"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=134",
+        "label": "知识点"
       },
       {
         "subject": "三角恒等式",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=130",
+        "label": "专题",
         "contents": [
           "三角变换恒等式",
           "基础定义",
@@ -755,46 +891,55 @@
       {
         "subject": "万能公式",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=131",
+        "label": "专题",
         "contents": [
           "万能公式"
         ]
       },
       {
         "subject": "正弦公式",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=763"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=763",
+        "label": "知识点"
       },
       {
         "subject": "余弦定理",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=764"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=764",
+        "label": "知识点"
       }
     ]
   },
   {
     "subject": "平面向量",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=754",
+    "label": "专题",
     "items": [
       {
         "subject": "向量、模、单位向量",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=755"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=755",
+        "label": "知识点"
       },
       {
         "subject": "向量相等与平行",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=756"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=756",
+        "label": "知识点"
       },
       {
         "subject": "向量的加法、减法与数乘",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=165",
+        "label": "专题",
         "contents": [
           "向量的加法"
         ]
       },
       {
         "subject": "向量的线性运算",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=166"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=166",
+        "label": "知识点"
       },
       {
         "subject": "内积",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=167",
+        "label": "专题",
         "contents": [
           "向量的数乘",
           "向量乘除（内积与外积）",
@@ -804,43 +949,52 @@
       },
       {
         "subject": "向量的坐标运算",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=757"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=757",
+        "label": "知识点"
       },
       {
         "subject": "向量垂直、正交基底与正交分解",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=758"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=758",
+        "label": "知识点"
       }
     ]
   },
   {
     "subject": "数列",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=719",
+    "label": "专题",
     "items": [
       {
         "subject": "等差数列",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=143"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=143",
+        "label": "知识点"
       },
       {
         "subject": "等比数列",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=144"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=144",
+        "label": "知识点"
       },
       {
         "subject": "数学归纳法",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=100"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=100",
+        "label": "知识点"
       },
       {
         "subject": "反证法",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=99"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=99",
+        "label": "知识点"
       }
     ]
   },
   {
     "subject": "复数与向量",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=101",
+    "label": "专题",
     "items": [
       {
         "subject": "复数概念、几何意义与共轭复数",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=102",
+        "label": "专题",
         "contents": [
           "引入意义",
           "复数的几何意义",
@@ -850,6 +1004,7 @@
       {
         "subject": "复数的加、减、乘、除",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=103",
+        "label": "专题",
         "contents": [
           "加法与减",
           "乘法与除法"
@@ -857,25 +1012,30 @@
       },
       {
         "subject": "复数的三角形式",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=104"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=104",
+        "label": "知识点"
       },
       {
         "subject": "复数的三角函数运算",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=765"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=765",
+        "label": "知识点"
       }
     ]
   },
   {
     "subject": "解析几何",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=150",
+    "label": "专题",
     "items": [
       {
         "subject": "坐标系",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=727",
+        "label": "专题",
         "items": [
           {
             "subject": "极坐标",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=164",
+            "label": "专题",
             "contents": [
               "极坐标",
               "圆的极坐标表示",
@@ -885,6 +1045,7 @@
           {
             "subject": "球坐标",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=163",
+            "label": "专题",
             "contents": [
               "球座标系",
               "球坐标与直角坐标的转换。",
@@ -894,6 +1055,7 @@
           {
             "subject": "柱坐标",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=162",
+            "label": "专题",
             "contents": [
               "圆柱坐标系",
               "柱坐标与直角坐标系转换"
@@ -904,6 +1066,7 @@
       {
         "subject": "两点之间的距离",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=159",
+        "label": "专题",
         "contents": [
           "三维或更高维数"
         ]
@@ -911,10 +1074,12 @@
       {
         "subject": "直线",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=690",
+        "label": "专题",
         "items": [
           {
             "subject": "倾斜角与斜率",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=158",
+            "label": "专题",
             "contents": [
               "倾斜角的定义",
               "直线的斜率",
@@ -923,11 +1088,13 @@
           },
           {
             "subject": "方向向量与法向量",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=725"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=725",
+            "label": "知识点"
           },
           {
             "subject": "直线方程",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=688",
+            "label": "专题",
             "contents": [
               "直线方程的求法"
             ]
@@ -935,6 +1102,7 @@
           {
             "subject": "两直线平行与垂直",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=689",
+            "label": "专题",
             "contents": [
               "两直线的平行",
               "两直线的垂直"
@@ -942,47 +1110,57 @@
           },
           {
             "subject": "点到直接的距离公式",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=686"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=686",
+            "label": "知识点"
           },
           {
             "subject": "两平行直线距离",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=726"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=726",
+            "label": "知识点"
           }
         ]
       },
       {
         "subject": "圆",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=153",
+        "label": "专题",
         "items": [
           {
             "subject": "圆的方程",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=160"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=160",
+            "label": "知识点"
           },
           {
             "subject": "直线与圆的弦长",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=685"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=685",
+            "label": "知识点"
           },
           {
             "subject": "直线与圆的切线",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=687"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=687",
+            "label": "知识点"
           },
           {
             "subject": "直线与圆的位置",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=161"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=161",
+            "label": "知识点"
           },
           {
             "subject": "圆与圆的关系",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=691"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=691",
+            "label": "知识点"
           }
         ]
       },
       {
         "subject": "椭圆",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=706",
+        "label": "专题",
         "items": [
           {
             "subject": "椭圆的定义与标准方程",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=155",
+            "label": "专题",
             "contents": [
               "椭圆的定义",
               "椭圆是圆锥曲线的一种",
@@ -992,11 +1170,13 @@
           },
           {
             "subject": "点与椭圆位置关系",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=707"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=707",
+            "label": "知识点"
           },
           {
             "subject": "离心率",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=708",
+            "label": "专题",
             "contents": [
               "椭圆离心率的定义",
               "如何理解椭圆离心率",
@@ -1007,35 +1187,42 @@
           {
             "subject": "椭圆的第2种定义",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=709",
+            "label": "专题",
             "contents": [
               "离心率的意义"
             ]
           },
           {
             "subject": "直线与椭圆的位置关系",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=710"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=710",
+            "label": "知识点"
           },
           {
             "subject": "椭圆的切线方程",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=711"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=711",
+            "label": "知识点"
           },
           {
             "subject": "椭圆中点弦斜率与方程",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=712"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=712",
+            "label": "知识点"
           },
           {
             "subject": "椭圆焦点三角形面积",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=713"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=713",
+            "label": "知识点"
           }
         ]
       },
       {
         "subject": "双曲线",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=156",
+        "label": "专题",
         "items": [
           {
             "subject": "双曲线的定义",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=714",
+            "label": "专题",
             "contents": [
               "双曲线的基本定义",
               "双曲线 $a,b,c$ 的定义"
@@ -1044,6 +1231,7 @@
           {
             "subject": "离心率",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=715",
+            "label": "专题",
             "contents": [
               "双曲线离心率的定义"
             ]
@@ -1051,6 +1239,7 @@
           {
             "subject": "渐近线与共轭双曲线",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=716",
+            "label": "专题",
             "contents": [
               "渐近线",
               "共轭双曲线"
@@ -1058,11 +1247,13 @@
           },
           {
             "subject": "双曲线的第二定义",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=817"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=817",
+            "label": "知识点"
           },
           {
             "subject": "双曲线的准线",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=717",
+            "label": "专题",
             "contents": [
               "双曲线的准线"
             ]
@@ -1072,14 +1263,17 @@
       {
         "subject": "抛物线",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=157",
+        "label": "专题",
         "items": [
           {
             "subject": "抛物线的定义",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=722"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=722",
+            "label": "知识点"
           },
           {
             "subject": "离心率",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=723"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=723",
+            "label": "知识点"
           }
         ]
       }
@@ -1088,62 +1282,76 @@
   {
     "subject": "统计与概率",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=186",
+    "label": "专题",
     "items": [
       {
         "subject": "统计",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=743",
+        "label": "专题",
         "items": [
           {
             "subject": "总体、个体与样本",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=744"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=744",
+            "label": "知识点"
           },
           {
             "subject": "最值、平均数、中位数与百分位数",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=745"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=745",
+            "label": "知识点"
           },
           {
             "subject": "极差、方差与标准差",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=746"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=746",
+            "label": "知识点"
           },
           {
             "subject": "柱状图与折线图",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=747"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=747",
+            "label": "知识点"
           },
           {
             "subject": "扇形图与茎叶图",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=748"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=748",
+            "label": "知识点"
           },
           {
             "subject": "用样本估计总统",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=749"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=749",
+            "label": "知识点"
           },
           {
             "subject": "频率与频数",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=750"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=750",
+            "label": "知识点"
           }
         ]
       },
       {
         "subject": "概率",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=187",
+        "label": "专题",
         "items": [
           {
             "subject": "样本空间与随机事件",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=751"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=751",
+            "label": "知识点"
           },
           {
             "subject": "必然事件与互斥事件",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=752"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=752",
+            "label": "知识点"
           },
           {
             "subject": "古典概率",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=753"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=753",
+            "label": "知识点"
           }
         ]
       },
       {
         "subject": "计数原理",
         "link": "https://kb.kmath.cn/kbase/detail.aspx?id=200",
+        "label": "专题",
         "contents": [
           "加法原理",
           "乘法原理"
@@ -1151,11 +1359,13 @@
         "items": [
           {
             "subject": "二项式定理",
-            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=203"
+            "link": "https://kb.kmath.cn/kbase/detail.aspx?id=203",
+            "label": "知识点"
           },
           {
             "subject": "组合",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=202",
+            "label": "专题",
             "contents": [
               "组合数"
             ]
@@ -1163,6 +1373,7 @@
           {
             "subject": "排列",
             "link": "https://kb.kmath.cn/kbase/detail.aspx?id=201",
+            "label": "专题",
             "contents": [
               "排列数"
             ]
@@ -1171,75 +1382,92 @@
       },
       {
         "subject": "乘法公式与全概率公式",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=195"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=195",
+        "label": "知识点"
       },
       {
         "subject": "贝叶斯公式",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=196"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=196",
+        "label": "知识点"
       },
       {
         "subject": "独立性与条件概率",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=197"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=197",
+        "label": "知识点"
       },
       {
         "subject": "二项分布与超几何分布",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=198"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=198",
+        "label": "知识点"
       },
       {
         "subject": "回归分析的误差",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=199"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=199",
+        "label": "知识点"
       }
     ]
   },
   {
     "subject": "立体几何",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=718",
+    "label": "专题",
     "items": [
       {
         "subject": "空间向量",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=170"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=170",
+        "label": "知识点"
       },
       {
         "subject": "空间向量的加法",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=171"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=171",
+        "label": "知识点"
       },
       {
         "subject": "向量的内积",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=173"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=173",
+        "label": "知识点"
       },
       {
         "subject": "向量共面定理",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=728"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=728",
+        "label": "知识点"
       },
       {
         "subject": "圆柱体",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=182"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=182",
+        "label": "知识点"
       },
       {
         "subject": "圆锥体",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=183"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=183",
+        "label": "知识点"
       },
       {
         "subject": "台体",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=184"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=184",
+        "label": "知识点"
       },
       {
         "subject": "球体",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=185"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=185",
+        "label": "知识点"
       },
       {
         "subject": "二面角",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=766"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=766",
+        "label": "知识点"
       }
     ]
   },
   {
     "subject": "函数图形汇总",
     "link": "https://kb.kmath.cn/kbase/detail.aspx?id=665",
+    "label": "专题",
     "items": [
       {
         "subject": "初等函数图像",
-        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=666"
+        "link": "https://kb.kmath.cn/kbase/detail.aspx?id=666",
+        "label": "知识点"
       }
     ]
   }

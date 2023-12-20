@@ -55,16 +55,21 @@ def dfs_topic(topic, level):
     result = dict(
         subject=subject.text,
         link=subject_link,
+        # By default
+        label="知识点"
     )
     contents = get_topic_titles(subject_link)
     if len(contents) > 0:
         result['contents'] = contents
+        result['label'] = "专题"
+    # This topic is a topic
     if parent.has_attr('class'):
         items = topic.find_next(class_="items")
+        result['label'] = "专题"
         if items: 
             result['items'] = []
             for item in items:
-                result['items'].append(dfs_topic(item, level+1))
+                result['items'].append(dfs_topic(item, level+1))    
     return result
 
 
