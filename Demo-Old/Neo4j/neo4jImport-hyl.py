@@ -23,7 +23,7 @@ def load_relations():
         return json.load(file)
 
 def create_node(driver, entity):
-    query = f"CREATE (:{entity['label']} {{name:'{entity['name']}', nid:{int(entity['id'])}}})"
+    query = f"CREATE (:{entity['label']} {{name:'{entity['name']}', nid:{int(entity['nid'])}}})"
     # print(query)
     driver.execute_query(query, database_="neo4j")
     
@@ -36,7 +36,7 @@ def create_relation(driver, relation, source_nid, target_nid):
     query = \
     f"MATCH (e1:% {{nid: {source_nid}}})," + \
     f"(e2:% {{nid: {target_nid}}}) " + \
-    f"CREATE (e1) - [:{relation['label']} {{rid: {relation['id']}}}] -> (e2)"
+    f"CREATE (e1) - [:{relation['label']} {{rid: {relation['rid']}}}] -> (e2)"
     print(query)
     driver.execute_query(query, database_="neo4j")
 
@@ -51,10 +51,10 @@ def handle_nodes_relations():
     nodes = load_entities()
     res = dict()
     for node in nodes:
-        res[node['id']] = {
+        res[node['nid']] = {
             "label": node['label'],
             "name": node['name'],
-            "id": node['id']
+            "id": node['nid']
         }
     # with open('/home/hyl/paper/tmp/Knowledge-Graph-Project/Demo-Old/Neo4j/hyl-node.json', 'w') as f:
     #     json.dump(res, f)
