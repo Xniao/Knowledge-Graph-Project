@@ -48,19 +48,72 @@ def save_and_load_worddict():
 def pre_handle_search():
     pass
 
+# 定义排序函数，以r列表的长度为关键字
+def sort_key(record):
+    return len(record['r'])
+
+
+
+def post_handle_result(records):
+    # 按照r列表的长度从大到小进行排序
+    sorted_records = sorted(records, key=sort_key, reverse=True)
+    # print(sorted_records)
+    res_dict = {
+        "textbook": None,
+        "chapter": None,
+        "special1": None,
+        "special2": None, 
+        "knowledge-topic": None
+    }
+    chinese2eng_dict = {
+        "知识点": "knowledge-topic",
+        "章节": "chapter",
+        "专题": "special",
+        "教科书": "textbook"
+    }
+    
+    for rn in sorted_records:
+        node_label = list(rn['a'].labels)[0]
+        node_name = rn['a']['name']
+        
+        if node_label not in "专题":
+            res_dict[chinese2eng_dict[node_label]] = node_name
+        else:
+            if res_dict["special1"] is None:
+                res_dict['special1'] = node_name
+            else:
+                res_dict['special2'] = node_name
+    last_b_label = list(sorted_records[-1]['b'].labels)[0]
+    last_b_name = sorted_records[-1]['b']['name']
+    if last_b_label not in "专题":
+        res_dict[chinese2eng_dict[last_b_label]] = last_b_name
+    else:
+        if res_dict["special1"] is None:
+            res_dict['special1'] = last_b_name
+        else:
+            res_dict['special2'] = last_b_name
+    return res_dict
+
+
 def search(driver, query):
     seg_list = jieba.lcut(query)
     print(query)
     for entity in seg_list:
         # 此条语句查询该node的所有子节点 - 直接关系
-        send_q1 = f'MATCH (a:% {{name:"{entity}"}}) - [r:{"包含"}] -> (b) RETURN a,r, b'
+        # send_q1 = f'MATCH (a:% {{name:"{entity}"}}) - [r:{"包含"}] -> (b) RETURN a,r, b'
         # print(send_q1)
-        ans = driver.execute_query(send_q1, database_="neo4j")
-        # 此条语句查询该node的所有父节点 - 直接关系
-        send_q2 = f'MATCH (a) - [r:{"包含"}] -> (b:% {{name:"{entity}"}}) RETURN a,r, b'
-        # print(send_q2)
+        # ans = driver.execute_query(send_q1, database_="neo4j")
+        # print(ans)
+        # 此条语句查询该node的所有父节点 - 包含关系
+        send_q2 = f'MATCH (a) - [r:{"包含"} *1..10] -> (b:% {{name:"{entity}"}}) RETURN a,r, b'
+        print(send_q2)
         ans = driver.execute_query(send_q2, database_="neo4j")
- 
+        handle_res = post_handle_result(ans[0])
+        print(handle_res)
+        # send_q3 = f'MATCH (a) - [r] -> (b:% {{name:"{entity}"}}) RETURN a,r,b'
+        # print(send_q3)
+        # ans = driver.execute_query(send_q3, database_="neo4j")
+        # print(ans)
 
 # 创建应用实例
 app = Flask(__name__)
@@ -77,4 +130,6 @@ if __name__ == '__main__':
     save_and_load_worddict()
     with GraphDatabase.driver(URI, auth=AUTH) as driver:
         driver.verify_connectivity()
-        search(driver, '常用逻辑用语')
+        search(driver, '半角公式')
+
+
