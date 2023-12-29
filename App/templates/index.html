@@ -5,11 +5,11 @@
   <meta charset="UTF-8">
   <title>高中数学知识库</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="../asserts/normalize.min.css">
-  <link rel="stylesheet" href="./style.css">
-  <link rel="icon" href="../asserts/icon.png" type="image/x-icon">
-  <link rel="shortcut icon" href="../asserts/icon.png" type="image/x-icon">
-
+  <link rel="stylesheet" href="{{ url_for('static',filename='styles/normalize.min.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static',filename='styles/style.css') }}">
+  <link rel="icon" href="{{ url_for('static',filename='assets/icon.png') }}" type="image/x-icon">
+  <link rel="shortcut icon" href="{{ url_for('static',filename='assets/icon.png') }}" type="image/x-icon">
+  
 </head>
 
 <body>
@@ -28,9 +28,9 @@
     <div>
       <ul>
         <li ng-repeat="result in results" class="card">
-          <a href="{{ result.page }}" target="_blank">
-            <h2>{{ result.title }}</h2>
-            <div>{{ result.body }}</div>
+          <a href="{a result.page a}" target="_blank">
+            <h2>{a result.title a}</h2>
+            <div>{a result.body a}</div>
           </a>
         </li>
       </ul>
@@ -39,9 +39,9 @@
   <a class="random" href="http://zh.wikipedia.org/wiki/Special:Random" target="_blank">随机知识点</a>
   <div class="bg"></div>
   <!-- Local script -->
-  <script src='../asserts/jquery.min.js'></script>
-  <script src='../asserts/angular.min.js'></script>
-  <script src="./script.js"></script>
+  <script src="{{ url_for('static',filename='scripts/jquery.min.js') }}"></script>
+  <script src="{{ url_for('static',filename='scripts/angular.min.js') }}"></script>
+  <script src="{{ url_for('static',filename='scripts/script.js') }}"></script>
 
 </body>
 

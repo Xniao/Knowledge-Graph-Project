@@ -55,3 +55,8 @@ angular.module("App", [])  // Define an Angular module named "App" with no depen
       $("input").focus();  // Set focus on the input element.
     }
   });
+
+app.config(['$interpolateProvider', function($interpolateProvider) {
+  $interpolateProvider.startSymbol('{a');
+  $interpolateProvider.endSymbol('a}');
+}]);
