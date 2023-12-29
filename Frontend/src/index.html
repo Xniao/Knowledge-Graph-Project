@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>高中数学知识库</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../asserts/normalize.min.css">
+  <link rel="stylesheet" href="./style.css">
+  <link rel="icon" href="../asserts/icon.png" type="image/x-icon">
+  <link rel="shortcut icon" href="../asserts/icon.png" type="image/x-icon">
+
+</head>
+
+<body>
+  <!-- Main App -->
+  <div ng-app="App" ng-controller="SearchCtrl">
+    <div class="search">
+      <h1>Math Knowledge Base</h1>
+      <form ng-submit="search()">
+        <div class="searchBox">
+          <input type="text" ng-model="searchTerm" />
+          <span ng-show="searched" ng-click="cancel()">&#x274c;</span>
+          <span ng-show="!searched" ng-click="search()">&#x1F50D;</span>
+        </div>
+      </form>
+    </div>
+    <div>
+      <ul>
+        <li ng-repeat="result in results" class="card">
+          <a href="{{ result.page }}" target="_blank">
+            <h2>{{ result.title }}</h2>
+            <div>{{ result.body }}</div>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <a class="random" href="http://zh.wikipedia.org/wiki/Special:Random" target="_blank">随机知识点</a>
+  <div class="bg"></div>
+  <!-- Local script -->
+  <script src='../asserts/jquery.min.js'></script>
+  <script src='../asserts/angular.min.js'></script>
+  <script src="./script.js"></script>
+
+</body>
+
+</html>
