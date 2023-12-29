@@ -6,13 +6,13 @@ import json
 
 # os.environ["http_proxy"] = "http://127.0.0.1:7890"
 # os.environ["https_proxy"] = "http://127.0.0.1:7890"
-dotenv.load_dotenv("/home/hyl/paper/tmp/Knowledge-Graph-Project/Demo-Old/Neo4j/Neo4j-48a6b976-Created-2023-12-18.txt")
+dotenv.load_dotenv("./Neo4j/Neo4j-48a6b976-Created-2023-12-18.txt")
 
 URI = os.getenv("NEO4J_URI")
 AUTH = (os.getenv("NEO4J_USERNAME"), os.getenv("NEO4J_PASSWORD"))
 
-ENTITY_RESULT_FILE_PATH = "/home/hyl/paper/tmp/Knowledge-Graph-Project/data/node.json"
-RELATION_RESULT_FILE_PATH = "/home/hyl/paper/tmp/Knowledge-Graph-Project/data/relation.json"
+ENTITY_RESULT_FILE_PATH = "../../data/node.json"
+RELATION_RESULT_FILE_PATH = "../../data/relation.json"
 
 def load_entities():
     with open(ENTITY_RESULT_FILE_PATH, 'r', encoding="utf8") as file:
