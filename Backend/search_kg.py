@@ -130,6 +130,7 @@ def search(query):
             dict['isTextbook'] = False
             dict['location'] = location
             dict['wikipedia'] = search_wikipedia(entity)
+            dict['entity'] = entity
             result.append(dict)
         else:
             textbook = {}
@@ -159,6 +160,7 @@ def search(query):
                     break
             dict = {}
             dict['isTextbook'] = True
+            dict['entity'] = entity
             dict['knowledge'] = knowledge
             result.append(dict)
     return result
