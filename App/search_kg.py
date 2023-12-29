@@ -128,6 +128,10 @@ def search(query):
             print(location)
             dict = {}
             dict['isTextbook'] = False
+            location['level'] = 0
+            for key in location.keys():
+                if location[key] != None:
+                    location['level'] =  location['level'] + 1
             dict['location'] = location
             dict['wikipedia'] = search_wikipedia(entity)
             result.append(dict)
