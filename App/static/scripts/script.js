@@ -1,11 +1,11 @@
 angular.module("App", [])  // Define an Angular module named "App" with no dependencies.
-  .controller("SearchCtrl", function($scope, $http) {
+  .controller("SearchCtrl", function ($scope, $http) {
 
     // Initialize an empty array to store search results.
     $scope.results = [];
 
     // Define a function for handling the search operation.
-    $scope.search = function() {
+    $scope.search = function () {
       $scope.results = [];  // Clear previous search results.
 
       // Modify the CSS properties of the <ul> element using jQuery.
@@ -16,23 +16,37 @@ angular.module("App", [])  // Define an Angular module named "App" with no depen
 
       if ($scope.searchTerm) {
         // Define the Wikipedia API endpoint for search and article retrieval.
-        var api = 'http://zh.wikipedia.org/w/api.php?format=json&action=query&generator=search&gsrnamespace=0&gsrlimit=10&prop=pageimages|extracts&pilimit=max&exintro&explaintext&exsentences=1&exlimit=max&gsrsearch=';
-        var cb = '&callback=JSON_CALLBACK';
-        var page = 'http://en.wikipedia.org/?curid=';
+        // var api = 'http://zh.wikipedia.org/w/api.php?format=json&action=query&generator=search&gsrnamespace=0&gsrlimit=10&prop=pageimages|extracts&pilimit=max&exintro&explaintext&exsentences=1&exlimit=max&gsrsearch=';
+        // var cb = '&callback=JSON_CALLBACK';
+        // var page = 'http://en.wikipedia.org/?curid=';
+        var api = "/kg_math/search?q="
 
+        var requestUrl = api + $scope.searchTerm
+        // console.log("Sending request")
+        // console.log(requestUrl)
         // Use AngularJS's $http service to make a JSONP request to the Wikipedia API.
-        $http.jsonp(api + $scope.searchTerm + cb)
-          .success(function(data) {
-            // Process the retrieved data and populate the $scope.results array.
-            var results = data.query.pages;
-            angular.forEach(results, function(value, key) {
-              $scope.results.push({
-                title: value.title,
-                body: value.extract,
-                page: page + value.pageid
-              });
-            });
+        $http({
+          method: 'GET',
+          url: requestUrl
+        })
+          .then(response => response.data)
+          .then(data => {
+            var locations = []
+            // Redener result for each entity 
+            data.forEach(entity => {
+              var wikiResults = entity.wikipedia
+              locations.push(entity.location)
+              wikiResults.forEach(result => {
+                $scope.results.push({
+                  title: result.title,
+                  body: result.extract
+                });
+              })
+            })
+            console.log(locations);
+            
           });
+
 
         // Use jQuery to animate the <ul> and .search elements.
         $("ul").animate({
@@ -49,14 +63,13 @@ angular.module("App", [])  // Define an Angular module named "App" with no depen
     };
 
     // Define a function to cancel the search.
-    $scope.cancel = function() {
+    $scope.cancel = function () {
       $scope.searchTerm = "";  // Clear the search term.
       $scope.searched = false;  // Reset the search flag.
       $("input").focus();  // Set focus on the input element.
     }
   });
 
-app.config(['$interpolateProvider', function($interpolateProvider) {
-  $interpolateProvider.startSymbol('{a');
-  $interpolateProvider.endSymbol('a}');
-}]);
+function printEntityLocation(location) {
+  
+}

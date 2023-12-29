@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 os.environ["http_proxy"] = "http://127.0.0.1:7890"
 os.environ["https_proxy"] = "http://127.0.0.1:7890"
-
+app.config['TEMPLATES_AUTO_RELOAD'] = True
 
 @app.route("/")
 def get_index():
@@ -25,4 +25,4 @@ def query():
 
 # 启动实施（只在当前模块运行）
 if __name__ == '__main__':
-	app.run(debug=True,port=5000)
+	app.run(port=5000)
