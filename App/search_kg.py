@@ -7,17 +7,17 @@ import json, jieba
 from flask import Flask, redirect
 from search_wikipedia import search_wikipedia
 
-dotenv.load_dotenv("./Demo-Old/Neo4j/Neo4j-48a6b976-Created-2023-12-18.txt")
-
+dotenv.load_dotenv("../Demo-Old/Neo4j/Neo4j-48a6b976-Created-2023-12-18.txt")
 URI = os.getenv("NEO4J_URI")
 AUTH = (os.getenv("NEO4J_USERNAME"), os.getenv("NEO4J_PASSWORD"))
 
-ENTITY_RESULT_FILE_PATH = "../../node.json"
-RELATION_RESULT_FILE_PATH = "../../relation.json"
+ENTITY_RESULT_FILE_PATH = "../data/node.json"
+RELATION_RESULT_FILE_PATH = "../data/relation.json"
+WORDS_TEXT_FILE_PATH = "../data/words.txt"
 
 # 导入自定义词表
 def save_and_load_worddict():
-    if not exists('./words.txt'):	
+    if not exists(WORDS_TEXT_FILE_PATH):	
         word_dic = {}
         with open(ENTITY_RESULT_FILE_PATH, 'r', encoding="utf8") as f:
             nodes = json.load(f)
@@ -42,10 +42,10 @@ def save_and_load_worddict():
             else:
                 word_dic[relation['label']] = 1
 
-        with open('./words.txt', 'w', encoding='utf-8') as f:
+        with open(WORDS_TEXT_FILE_PATH, 'w', encoding='utf-8') as f:
             for k, v in word_dic.items():
                 f.write(k + ' ' + str(v) + '\n')
-    jieba.load_userdict('./words.txt')
+    jieba.load_userdict(WORDS_TEXT_FILE_PATH)
 
 def pre_handle_search():
     pass
@@ -128,8 +128,12 @@ def search(query):
             print(location)
             dict = {}
             dict['isTextbook'] = False
-            dict['location'] = location
+            location['level'] = 0
+            for key in location.keys():
+                if location[key] != None:
+                    location['level'] =  location['level'] + 1
             dict['wikipedia'] = search_wikipedia(entity)
+            dict['location'] = location
             dict['entity'] = entity
             result.append(dict)
         else:
@@ -163,4 +167,4 @@ def search(query):
             dict['entity'] = entity
             dict['knowledge'] = knowledge
             result.append(dict)
-    return result
+    return json.dumps(result)
