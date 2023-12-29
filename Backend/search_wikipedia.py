@@ -5,10 +5,7 @@ def search_wikipedia(keyword):
     wiki_base_url = 'https://zh.wikipedia.org/wiki/'
     response = requests.get(api_url+keyword)
     data = response.json()
-    result = {}
-    result['list'] = []
+    list = []
     for page in data['query']['pages'].keys():
-        result['list'].append({'title':data['query']['pages'][page]['title'],'extract':data['query']['pages'][page]['extract'],'url':wiki_base_url+data['query']['pages'][page]['title']})
-    return result
-
-print(search_wikipedia('对称变换'))
+        list.append({'title':data['query']['pages'][page]['title'],'extract':data['query']['pages'][page]['extract'],'url':wiki_base_url+data['query']['pages'][page]['title']})
+    return list
