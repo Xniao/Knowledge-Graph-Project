@@ -3,7 +3,7 @@ import os
 from os.path import exists
 from neo4j import GraphDatabase
 from rich.progress import track
-import json, jieba
+import json, jieba, random
 from flask import Flask, redirect
 from search_wikipedia import search_wikipedia
 
@@ -46,6 +46,18 @@ def save_and_load_worddict():
             for k, v in word_dic.items():
                 f.write(k + ' ' + str(v) + '\n')
     jieba.load_userdict(WORDS_TEXT_FILE_PATH)
+
+
+def load_knowledge_point_node():
+    with open(ENTITY_RESULT_FILE_PATH, 'r', encoding="utf8") as file:
+        nodes = json.load(file)
+    result = []
+    for node in nodes:
+        if node.get('label') and node['label'] == "知识点":
+            result.append(node)
+    # print(result)
+    return result
+
 
 def pre_handle_search():
     pass
@@ -128,10 +140,11 @@ def search(query):
             print(location)
             dict = {}
             dict['isTextbook'] = False
-            location['level'] = 0
+            level = 0
             for key in location.keys():
                 if location[key] != None:
-                    location['level'] =  location['level'] + 1
+                    level += 1
+            dict['level'] = level
             dict['location'] = location
             dict['wikipedia'] = search_wikipedia(entity)
             result.append(dict)
@@ -165,4 +178,15 @@ def search(query):
             dict['isTextbook'] = True
             dict['knowledge'] = knowledge
             result.append(dict)
+    return json.dumps(result)
+
+
+def random_knowledge_point():
+    kp_nodes = load_knowledge_point_node()
+    kp_node = random.choice(kp_nodes)
+    kp_name = kp_node['name']
+    result = dict(
+        name=kp_name,
+        wikipedia=search_wikipedia(kp_name)
+    )
     return json.dumps(result)
