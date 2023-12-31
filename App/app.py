@@ -5,8 +5,8 @@ import os
 # 创建应用实例
 app = Flask(__name__)
 
-# os.environ["http_proxy"] = "http://127.0.0.1:7890"
-# os.environ["https_proxy"] = "http://127.0.0.1:7890"
+os.environ["http_proxy"] = "http://127.0.0.1:7890"
+os.environ["https_proxy"] = "http://127.0.0.1:7890"
 app.config['TEMPLATES_AUTO_RELOAD'] = True
 
 @app.route("/")

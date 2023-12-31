@@ -4,14 +4,15 @@ from neo4j import GraphDatabase
 from rich.progress import track
 import json
 
+BASE_DIR = os.path.dirname(__file__)
 
-dotenv.load_dotenv("./Neo4j.txt")
+dotenv.load_dotenv(os.path.join(BASE_DIR, '../Neo4j.txt'))
 
 URI = os.getenv("NEO4J_URI")
 AUTH = (os.getenv("NEO4J_USERNAME"), os.getenv("NEO4J_PASSWORD"))
 
-ENTITY_RESULT_FILE_PATH = "./data/node.json"
-RELATION_RESULT_FILE_PATH = "./data/relation.json"
+ENTITY_RESULT_FILE_PATH = os.path.join(BASE_DIR, '../data/node.json')
+RELATION_RESULT_FILE_PATH = os.path.join(BASE_DIR, "../data/relation.json")
 
 def load_entities():
     with open(ENTITY_RESULT_FILE_PATH, 'r', encoding="utf8") as file:

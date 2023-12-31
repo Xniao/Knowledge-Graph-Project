@@ -7,13 +7,15 @@ import json, jieba, random
 from flask import Flask, redirect
 from search_wikipedia import search_wikipedia
 
-dotenv.load_dotenv("../Demo-Old/Neo4j/Neo4j-48a6b976-Created-2023-12-18.txt")
+BASE_DIR = os.path.dirname(__file__)
+
+dotenv.load_dotenv(os.path.join(BASE_DIR, "../Neo4j.txt"))
 URI = os.getenv("NEO4J_URI")
 AUTH = (os.getenv("NEO4J_USERNAME"), os.getenv("NEO4J_PASSWORD"))
 
-ENTITY_RESULT_FILE_PATH = "../data/node.json"
-RELATION_RESULT_FILE_PATH = "../data/relation.json"
-WORDS_TEXT_FILE_PATH = "../data/words.txt"
+ENTITY_RESULT_FILE_PATH = os.path.join(BASE_DIR, "../data/node.json")
+RELATION_RESULT_FILE_PATH = os.path.join(BASE_DIR, "../data/relation.json")
+WORDS_TEXT_FILE_PATH = os.path.join(BASE_DIR, "../data/words.txt")
 
 # 导入自定义词表
 def save_and_load_worddict():
