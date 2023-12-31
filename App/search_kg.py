@@ -149,6 +149,8 @@ def search(query):
             dict['level'] = level
             dict['location'] = location
             dict['wikipedia'] = search_wikipedia(entity)
+            dict['location'] = location
+            dict['entity'] = entity
             result.append(dict)
         else:
             textbook = {}
@@ -178,6 +180,7 @@ def search(query):
                     break
             dict = {}
             dict['isTextbook'] = True
+            dict['entity'] = entity
             dict['knowledge'] = knowledge
             result.append(dict)
     return json.dumps(result)

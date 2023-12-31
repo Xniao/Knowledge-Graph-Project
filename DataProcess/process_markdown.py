@@ -24,10 +24,10 @@ relation = []
 # 解析Markdown文本
 markdown_text = ""
 
-markdown_list = os.listdir("data")
+markdown_list = os.listdir("../data")
 
 for md in markdown_list: 
-    with open("data/"+md,"r",encoding='utf-8') as f:
+    with open("../data/"+md,"r",encoding='utf-8') as f:
         markdown_text = f.read();
     print(md)
     html = markdown2.markdown(markdown_text)
@@ -140,8 +140,8 @@ for md in markdown_list:
                         relation.append({'label':'间接包含','src_id':current_h2['id'],'target_id':id,'rid':relation_id})
                         relation_id = relation_id + 1
 
-with open("node.json",'w',encoding='utf-8') as f:
+with open("../data/node.json",'w',encoding='utf-8') as f:
   f.write(json.dumps(node, ensure_ascii=False, indent=2))
 
-with open("relation.json",'w',encoding='utf-8') as f:
+with open("../data/relation.json",'w',encoding='utf-8') as f:
   f.write(json.dumps(relation, ensure_ascii=False, indent=2))
