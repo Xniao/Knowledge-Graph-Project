@@ -140,19 +140,12 @@ def search(query):
             print(location)
             dict = {}
             dict['isTextbook'] = False
-<<<<<<< HEAD
-            location['level'] = 0
-            for key in location.keys():
-                if location[key] != None:
-                    location['level'] =  location['level'] + 1
-=======
             level = 0
             for key in location.keys():
                 if location[key] != None:
                     level += 1
             dict['level'] = level
             dict['location'] = location
->>>>>>> 36631f0ab465fe70bf98d2b40611bc4adc4a04e5
             dict['wikipedia'] = search_wikipedia(entity)
             dict['location'] = location
             dict['entity'] = entity
